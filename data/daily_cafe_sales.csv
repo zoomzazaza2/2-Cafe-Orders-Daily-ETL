@@ -1,0 +1,1431 @@
+Transaction ID,Item,Quantity,Price Per Unit,Total Spent,Payment Method,Location,Transaction Date
+TXN_0833326,Cake,4,3.0,12.0,Digital Wallet,Takeaway,2025-11-19
+TXN_1508538,Sandwich,4,4.0,16.0,,Takeaway,2025-11-19
+TXN_3525491,Cookie,2,1.0,2.0,,,2025-11-19
+TXN_7390549,Salad,5,5.0,25.0,ERROR,Takeaway,2025-11-19
+TXN_6974072,Juice,5,3.0,15.0,,In-store,2025-11-19
+TXN_3383475,Sandwich,1,4.0,4.0,Cash,,2025-11-19
+TXN_0924667,Cake,2,3.0,6.0,Credit Card,In-store,2025-11-19
+TXN_9910948,Salad,2,5.0,10.0,,ERROR,2025-11-19
+TXN_8306112,Tea,5,1.5,7.5,Cash,,2025-11-19
+TXN_5462572,,5,1.0,5.0,,In-store,2025-11-19
+TXN_3663004,Cookie,3,1.0,3.0,Credit Card,UNKNOWN,2025-11-19
+TXN_9075917,Cookie,3,1.0,3.0,Credit Card,,2025-11-19
+TXN_0809073,Coffee,5,2.0,10.0,Digital Wallet,,2025-11-19
+TXN_9287149,Salad,2,5.0,10.0,Cash,Takeaway,2025-11-19
+TXN_1529994,Cake,2,3.0,6.0,UNKNOWN,,2025-11-19
+TXN_5083095,Tea,1,1.5,1.5,,,2025-11-19
+TXN_3231963,Juice,2,3.0,6.0,,,2025-11-19
+TXN_3852662,Tea,5,1.5,7.5,UNKNOWN,In-store,2025-11-19
+TXN_1453080,Cake,2,3.0,,Credit Card,In-store,2025-11-19
+TXN_4305400,Salad,4,UNKNOWN,20.0,Cash,In-store,2025-11-19
+TXN_8135373,Smoothie,2,4.0,8.0,,Takeaway,2025-11-19
+TXN_8696977,Juice,1,UNKNOWN,3.0,Credit Card,In-store,2025-11-19
+TXN_7763920,Cookie,1,UNKNOWN,1.0,ERROR,Takeaway,2025-11-19
+TXN_2582586,Sandwich,3,4.0,12.0,Cash,Takeaway,2025-11-19
+TXN_0219511,Sandwich,4,4.0,16.0,,,2025-11-19
+TXN_1310505,Tea,2,1.5,,,,2025-11-19
+TXN_7843062,Smoothie,5,4.0,20.0,Credit Card,In-store,2025-11-19
+TXN_1301447,ERROR,3,5.0,15.0,Digital Wallet,,2025-11-19
+TXN_3922548,Salad,3,ERROR,15.0,Credit Card,,2025-11-19
+TXN_2228206,Cake,1,ERROR,3.0,,,2025-11-19
+TXN_3746717,Cake,1,UNKNOWN,3.0,Cash,Takeaway,2025-11-19
+TXN_0710321,Coffee,4,2.0,8.0,,,2025-11-19
+TXN_1539919,ERROR,2,3.0,6.0,Credit Card,Takeaway,2025-11-19
+TXN_1324777,Sandwich,1,4.0,4.0,Credit Card,UNKNOWN,2025-11-19
+TXN_9362970,Smoothie,1,4.0,4.0,,,2025-11-19
+TXN_3040143,Smoothie,5,4.0,20.0,Credit Card,,2025-11-19
+TXN_2124729,Juice,UNKNOWN,3.0,UNKNOWN,Cash,Takeaway,2025-11-19
+TXN_6542514,UNKNOWN,3,4.0,12.0,,Takeaway,2025-11-19
+TXN_5230604,Cake,3,3.0,ERROR,Digital Wallet,Takeaway,2025-11-19
+TXN_8559529,Tea,3,1.5,4.5,Digital Wallet,In-store,2025-11-19
+TXN_7175596,Salad,3,5.0,15.0,Cash,,2025-11-19
+TXN_0884159,Smoothie,3,4.0,12.0,Cash,In-store,2025-11-19
+TXN_6115587,Cookie,3,1.0,3.0,Cash,In-store,2025-11-19
+TXN_4505759,Cookie,3,1.0,3.0,,In-store,2025-11-19
+TXN_0215795,Coffee,5,2.0,10.0,Cash,,2025-11-19
+TXN_2848676,Sandwich,UNKNOWN,4.0,12.0,Digital Wallet,In-store,2025-11-19
+TXN_4528174,Juice,4,3.0,12.0,Credit Card,,2025-11-19
+TXN_1782381,Salad,3,5.0,15.0,Cash,Takeaway,2025-11-19
+TXN_5944377,Cake,1,3.0,3.0,Credit Card,,2025-11-19
+TXN_7480405,Smoothie,4,4.0,16.0,UNKNOWN,In-store,2025-11-19
+TXN_7528635,Sandwich,3,4.0,12.0,Digital Wallet,In-store,2025-11-19
+TXN_1794975,,4,4.0,16.0,Digital Wallet,Takeaway,2025-11-19
+TXN_8485781,ERROR,2,3.0,6.0,Cash,Takeaway,2025-11-19
+TXN_5092468,Cake,5,3.0,15.0,Digital Wallet,,2025-11-19
+TXN_9624340,Cookie,1,1.0,1.0,Credit Card,In-store,2025-11-19
+TXN_2949737,Salad,4,5.0,20.0,Credit Card,Takeaway,2025-11-19
+TXN_9890821,Sandwich,4,ERROR,16.0,Cash,Takeaway,2025-11-19
+TXN_8564942,Salad,3,5.0,15.0,Digital Wallet,In-store,2025-11-19
+TXN_1948218,Cookie,5,1.0,5.0,Digital Wallet,Takeaway,2025-11-19
+TXN_7581735,Smoothie,5,4.0,20.0,,In-store,2025-11-19
+TXN_6276131,Sandwich,1,4.0,4.0,Digital Wallet,In-store,2025-11-19
+TXN_8510276,Tea,2,1.5,3.0,,Takeaway,2025-11-19
+TXN_5678922,Cake,5,3.0,15.0,,Takeaway,2025-11-19
+TXN_9760565,Sandwich,2,4.0,8.0,,Takeaway,2025-11-19
+TXN_4847835,,4,3.0,12.0,Credit Card,,2025-11-19
+TXN_3363533,Tea,4,1.5,6.0,Cash,In-store,2025-11-19
+TXN_6615011,Tea,4,1.5,6.0,Cash,UNKNOWN,2025-11-19
+TXN_9666631,Tea,4,1.5,6.0,Cash,,2025-11-19
+TXN_5367316,Cookie,4,1.0,4.0,Digital Wallet,,2025-11-19
+TXN_7541884,Cake,4,3.0,12.0,Credit Card,Takeaway,2025-11-19
+TXN_7342983,Cookie,1,1.0,1.0,Digital Wallet,Takeaway,2025-11-19
+TXN_3421047,Coffee,4,2.0,8.0,,In-store,2025-11-19
+TXN_9593291,Salad,4,5.0,20.0,Digital Wallet,In-store,2025-11-19
+TXN_3030415,Coffee,3,ERROR,6.0,Credit Card,,2025-11-19
+TXN_0426396,Cake,5,3.0,15.0,Cash,,2025-11-19
+TXN_8710460,Sandwich,4,4.0,16.0,Cash,Takeaway,2025-11-19
+TXN_2231190,ERROR,4,1.0,4.0,,Takeaway,2025-11-19
+TXN_4715485,Sandwich,2,4.0,8.0,,In-store,2025-11-19
+TXN_5803760,Cake,3,3.0,9.0,,,2025-11-19
+TXN_9189620,Sandwich,3,4.0,12.0,Cash,,2025-11-19
+TXN_7416204,Smoothie,2,4.0,8.0,Cash,In-store,2025-11-19
+TXN_0086041,Cake,UNKNOWN,3.0,9.0,Cash,Takeaway,2025-11-19
+TXN_4322271,Sandwich,3,4.0,12.0,UNKNOWN,Takeaway,2025-11-19
+TXN_9852858,Cookie,3,1.0,3.0,Cash,In-store,2025-11-19
+TXN_1872092,Sandwich,4,4.0,16.0,Credit Card,ERROR,2025-11-19
+TXN_0057673,Smoothie,5,4.0,20.0,Cash,In-store,2025-11-19
+TXN_0998473,Cake,4,3.0,12.0,Digital Wallet,In-store,2025-11-19
+TXN_8518829,,2,1.5,3.0,Cash,UNKNOWN,2025-11-19
+TXN_1741255,Cookie,3,1.0,3.0,Digital Wallet,UNKNOWN,2025-11-19
+TXN_6383802,Tea,2,1.5,3.0,,Takeaway,2025-11-19
+TXN_6802768,Smoothie,3,4.0,ERROR,Cash,Takeaway,2025-11-19
+TXN_5134864,Smoothie,5,,20.0,,,2025-11-19
+TXN_6397844,Salad,5,5.0,25.0,,Takeaway,2025-11-19
+TXN_7849827,Juice,3,3.0,9.0,,In-store,2025-11-19
+TXN_2912090,Cookie,2,1.0,2.0,Credit Card,In-store,2025-11-19
+TXN_2374241,UNKNOWN,5,1.0,5.0,Cash,,2025-11-19
+TXN_8467449,Smoothie,3,4.0,12.0,Credit Card,In-store,2025-11-19
+TXN_7842589,Salad,4,5.0,20.0,Digital Wallet,In-store,2025-11-19
+TXN_1580640,Juice,2,3.0,6.0,Cash,Takeaway,2025-11-19
+TXN_2351327,Salad,4,5.0,20.0,Digital Wallet,Takeaway,2025-11-19
+TXN_9109845,Salad,4,5.0,20.0,Credit Card,In-store,2025-11-19
+TXN_9442468,Cake,ERROR,,12.0,Digital Wallet,In-store,2025-11-19
+TXN_6725999,Cake,2,3.0,6.0,Cash,,2025-11-19
+TXN_1025577,Smoothie,1,4.0,4.0,Credit Card,In-store,2025-11-19
+TXN_0719611,Tea,5,1.5,7.5,Digital Wallet,,2025-11-19
+TXN_6678376,Sandwich,3,4.0,12.0,Digital Wallet,In-store,2025-11-19
+TXN_7994702,Cake,3,3.0,9.0,Cash,Takeaway,2025-11-19
+TXN_9498698,Salad,,5.0,15.0,Credit Card,,2025-11-19
+TXN_3030759,Coffee,3,2.0,6.0,Digital Wallet,Takeaway,2025-11-19
+TXN_1692375,ERROR,,2.0,2.0,,In-store,2025-11-19
+TXN_1035059,Salad,2,5.0,10.0,Cash,,2025-11-19
+TXN_0392449,,1,2.0,,Digital Wallet,Takeaway,2025-11-19
+TXN_6710595,Salad,1,5.0,5.0,Digital Wallet,,2025-11-19
+TXN_4438291,Juice,1,3.0,3.0,Cash,In-store,2025-11-19
+TXN_3349605,Tea,1,1.5,1.5,Digital Wallet,In-store,2025-11-19
+TXN_5107953,Salad,3,5.0,15.0,Digital Wallet,In-store,2025-11-19
+TXN_7643534,Coffee,4,2.0,8.0,Credit Card,,2025-11-19
+TXN_2429731,Tea,4,1.5,6.0,Digital Wallet,Takeaway,2025-11-19
+TXN_2292458,Juice,2,3.0,6.0,Credit Card,Takeaway,2025-11-19
+TXN_8318900,Smoothie,5,4.0,20.0,Digital Wallet,,2025-11-19
+TXN_1523181,Cookie,5,1.0,5.0,Cash,ERROR,2025-11-19
+TXN_6603834,Coffee,3,2.0,6.0,Digital Wallet,In-store,2025-11-19
+TXN_1419945,Juice,4,3.0,12.0,Digital Wallet,,2025-11-19
+TXN_9266315,Salad,,5.0,25.0,Digital Wallet,,2025-11-19
+TXN_5736007,Salad,3,5.0,15.0,Credit Card,In-store,2025-11-19
+TXN_3742480,Juice,1,3.0,3.0,,,2025-11-19
+TXN_5862622,Cookie,2,1.0,2.0,Cash,,2025-11-19
+TXN_4371363,Cookie,4,1.0,4.0,Digital Wallet,In-store,2025-11-19
+TXN_9652242,Juice,3,3.0,9.0,,UNKNOWN,2025-11-19
+TXN_5838833,Juice,1,ERROR,3.0,Credit Card,In-store,2025-11-19
+TXN_6308769,Sandwich,3,4.0,12.0,Credit Card,Takeaway,2025-11-19
+TXN_8670920,Coffee,1,2.0,2.0,,,2025-11-19
+TXN_4831749,Sandwich,2,4.0,UNKNOWN,,Takeaway,2025-11-19
+TXN_9766876,Tea,3,1.5,4.5,Cash,Takeaway,2025-11-19
+TXN_6976720,Coffee,4,2.0,8.0,Credit Card,UNKNOWN,2025-11-19
+TXN_2993337,Salad,5,5.0,25.0,,In-store,2025-11-19
+TXN_5770804,,4,1.5,6.0,Credit Card,In-store,2025-11-19
+TXN_5863941,UNKNOWN,4,3.0,12.0,,Takeaway,2025-11-19
+TXN_3757735,Smoothie,3,4.0,ERROR,Cash,,2025-11-19
+TXN_0662745,Sandwich,5,4.0,20.0,Credit Card,,2025-11-19
+TXN_0927890,Smoothie,ERROR,4.0,20.0,Cash,,2025-11-19
+TXN_3619206,Cake,5,3.0,15.0,Credit Card,In-store,2025-11-19
+TXN_8727550,Tea,1,1.5,1.5,Digital Wallet,,2025-11-19
+TXN_0503562,ERROR,5,3.0,15.0,Digital Wallet,Takeaway,2025-11-19
+TXN_4864642,Smoothie,4,4.0,16.0,ERROR,,2025-11-19
+TXN_7298475,Juice,3,3.0,9.0,Cash,In-store,2025-11-19
+TXN_3748008,Sandwich,4,4.0,16.0,Cash,,2025-11-19
+TXN_1251939,Sandwich,4,4.0,16.0,,Takeaway,2025-11-19
+TXN_7674250,Tea,2,1.5,3.0,Credit Card,In-store,2025-11-19
+TXN_1066921,Smoothie,1,4.0,ERROR,Digital Wallet,In-store,2025-11-19
+TXN_8662628,Coffee,5,2.0,10.0,Digital Wallet,Takeaway,2025-11-19
+TXN_6544769,Salad,2,5.0,10.0,Cash,In-store,2025-11-19
+TXN_5233466,Coffee,1,2.0,2.0,Digital Wallet,In-store,2025-11-19
+TXN_2763245,,3,5.0,,Cash,Takeaway,2025-11-19
+TXN_9496146,Cookie,2,1.0,2.0,Credit Card,In-store,2025-11-19
+TXN_3634760,Cake,1,,3.0,,Takeaway,2025-11-19
+TXN_4546964,Salad,5,5.0,25.0,Digital Wallet,In-store,2025-11-19
+TXN_4775337,Sandwich,5,4.0,20.0,Digital Wallet,,2025-11-19
+TXN_1462517,Sandwich,5,4.0,20.0,Digital Wallet,Takeaway,2025-11-19
+TXN_6189489,Smoothie,5,4.0,UNKNOWN,Digital Wallet,In-store,2025-11-19
+TXN_4109272,Cake,1,3.0,3.0,Credit Card,Takeaway,2025-11-19
+TXN_6757516,Salad,2,5.0,10.0,Credit Card,,2025-11-19
+TXN_8673294,Sandwich,5,4.0,UNKNOWN,Credit Card,Takeaway,2025-11-19
+TXN_1563436,Coffee,2,2.0,4.0,Credit Card,,2025-11-19
+TXN_3040364,Sandwich,3,4.0,12.0,Digital Wallet,,2025-11-19
+TXN_1782641,Tea,5,1.5,ERROR,,,2025-11-19
+TXN_1656187,Cake,5,3.0,15.0,Credit Card,,2025-11-19
+TXN_5673478,Salad,1,5.0,5.0,ERROR,,2025-11-19
+TXN_4120583,Juice,5,3.0,15.0,Digital Wallet,,2025-11-19
+TXN_6343248,Smoothie,3,4.0,12.0,ERROR,,2025-11-19
+TXN_9877458,Cake,2,3.0,6.0,Digital Wallet,In-store,2025-11-19
+TXN_5112042,Cake,2,3.0,6.0,Cash,In-store,2025-11-19
+TXN_0835257,Tea,1,1.5,1.5,,Takeaway,2025-11-19
+TXN_5389223,Coffee,UNKNOWN,2.0,6.0,,Takeaway,2025-11-19
+TXN_9762963,Juice,5,3.0,15.0,UNKNOWN,,2025-11-19
+TXN_7327689,Smoothie,3,4.0,12.0,Credit Card,In-store,2025-11-19
+TXN_0968541,Tea,5,1.5,7.5,Credit Card,,2025-11-19
+TXN_9452236,Juice,2,UNKNOWN,6.0,Digital Wallet,,2025-11-19
+TXN_4621979,Sandwich,1,4.0,4.0,Credit Card,In-store,2025-11-19
+TXN_2748353,Smoothie,2,4.0,8.0,Cash,In-store,2025-11-19
+TXN_2995805,UNKNOWN,2,,3.0,Credit Card,In-store,2025-11-19
+TXN_9075571,Coffee,4,2.0,8.0,Digital Wallet,Takeaway,2025-11-19
+TXN_3420884,Cookie,1,1.0,1.0,Credit Card,,2025-11-19
+TXN_0596853,Juice,3,3.0,9.0,Credit Card,,2025-11-19
+TXN_2797191,Salad,3,5.0,15.0,UNKNOWN,,2025-11-19
+TXN_1807321,Juice,4,3.0,12.0,,,2025-11-19
+TXN_8441664,Cake,3,3.0,9.0,Digital Wallet,In-store,2025-11-19
+TXN_0330893,Coffee,4,2.0,8.0,Cash,,2025-11-19
+TXN_0948467,Juice,3,3.0,9.0,Cash,,2025-11-19
+TXN_4229912,Smoothie,5,4.0,20.0,Digital Wallet,In-store,2025-11-19
+TXN_9190866,Smoothie,1,4.0,4.0,,,2025-11-19
+TXN_0188297,Sandwich,2,4.0,UNKNOWN,,Takeaway,2025-11-19
+TXN_9197143,Cookie,2,1.0,2.0,Credit Card,Takeaway,2025-11-19
+TXN_2367691,Coffee,2,2.0,4.0,Credit Card,,2025-11-19
+TXN_4331772,Sandwich,4,4.0,16.0,Cash,,2025-11-19
+TXN_3316079,Coffee,5,2.0,10.0,Credit Card,Takeaway,2025-11-19
+TXN_1412118,Cake,3,3.0,9.0,Cash,Takeaway,2025-11-19
+TXN_4046586,Cake,5,3.0,15.0,,,2025-11-19
+TXN_9582511,Tea,2,1.5,3.0,Credit Card,,2025-11-19
+TXN_4486915,Cookie,1,1.0,1.0,Digital Wallet,Takeaway,2025-11-19
+TXN_6590540,Sandwich,3,4.0,12.0,,In-store,2025-11-19
+TXN_2740960,Salad,1,ERROR,5.0,,,2025-11-19
+TXN_2011206,Salad,4,5.0,20.0,Credit Card,In-store,2025-11-19
+TXN_8742061,Coffee,4,2.0,8.0,UNKNOWN,In-store,2025-11-19
+TXN_8921828,Tea,3,1.5,4.5,Cash,UNKNOWN,2025-11-19
+TXN_8436490,Salad,1,5.0,5.0,Cash,Takeaway,2025-11-19
+TXN_6395126,Cake,4,3.0,12.0,,Takeaway,2025-11-19
+TXN_1113996,Cake,5,3.0,15.0,Cash,Takeaway,2025-11-19
+TXN_8376112,Cake,2,3.0,6.0,ERROR,In-store,2025-11-19
+TXN_9798373,Juice,3,3.0,9.0,,,2025-11-19
+TXN_4964909,Cake,2,3.0,6.0,,,2025-11-19
+TXN_9213040,Cookie,4,ERROR,4.0,Cash,,2025-11-19
+TXN_8063874,Salad,3,5.0,15.0,Digital Wallet,Takeaway,2025-11-19
+TXN_2606187,Smoothie,4,4.0,UNKNOWN,,In-store,2025-11-19
+TXN_1713823,Coffee,2,2.0,4.0,ERROR,,2025-11-19
+TXN_5703036,Juice,3,3.0,9.0,,Takeaway,2025-11-19
+TXN_5957267,Smoothie,5,4.0,20.0,,,2025-11-19
+TXN_0400943,Coffee,3,2.0,6.0,Digital Wallet,Takeaway,2025-11-19
+TXN_2709866,Sandwich,4,4.0,16.0,Cash,In-store,2025-11-19
+TXN_7705496,Sandwich,5,4.0,20.0,,In-store,2025-11-19
+TXN_6214021,Smoothie,1,4.0,4.0,Cash,ERROR,2025-11-19
+TXN_5248034,Sandwich,5,4.0,20.0,Credit Card,,2025-11-19
+TXN_2534178,ERROR,5,1.5,7.5,Credit Card,Takeaway,2025-11-19
+TXN_3496246,Smoothie,4,4.0,16.0,Cash,Takeaway,2025-11-19
+TXN_4814080,Cookie,4,1.0,4.0,,In-store,2025-11-19
+TXN_1552110,Sandwich,3,4.0,12.0,UNKNOWN,In-store,2025-11-19
+TXN_9380336,Coffee,4,2.0,8.0,,In-store,2025-11-19
+TXN_5299405,Coffee,4,2.0,,UNKNOWN,Takeaway,2025-11-19
+TXN_7271515,Smoothie,2,4.0,8.0,Digital Wallet,ERROR,2025-11-19
+TXN_2458956,Sandwich,2,4.0,8.0,,Takeaway,2025-11-19
+TXN_8898613,Cake,2,3.0,UNKNOWN,Cash,UNKNOWN,2025-11-19
+TXN_4391065,Smoothie,4,4.0,16.0,Digital Wallet,ERROR,2025-11-19
+TXN_1793698,Cake,3,3.0,9.0,UNKNOWN,,2025-11-19
+TXN_6806051,Cake,2,3.0,6.0,Cash,In-store,2025-11-19
+TXN_5405893,Coffee,3,2.0,6.0,Digital Wallet,In-store,2025-11-19
+TXN_8191133,Cookie,2,1.0,2.0,Cash,Takeaway,2025-11-19
+TXN_7805665,Salad,2,5.0,10.0,,,2025-11-19
+TXN_4714597,Cake,2,3.0,6.0,,Takeaway,2025-11-19
+TXN_8648697,Coffee,5,2.0,10.0,,,2025-11-19
+TXN_3544904,Salad,3,5.0,15.0,Cash,In-store,2025-11-19
+TXN_0324391,Juice,1,3.0,3.0,Digital Wallet,UNKNOWN,2025-11-19
+TXN_3298138,Salad,2,5.0,10.0,,Takeaway,2025-11-19
+TXN_4584132,ERROR,2,5.0,10.0,Credit Card,Takeaway,2025-11-19
+TXN_5906276,Coffee,3,2.0,6.0,Cash,Takeaway,2025-11-19
+TXN_3456243,Cake,5,3.0,15.0,,In-store,2025-11-19
+TXN_5796690,Cookie,5,1.0,5.0,Digital Wallet,Takeaway,2025-11-19
+TXN_2456648,,5,4.0,20.0,,In-store,2025-11-19
+TXN_1828319,Smoothie,5,4.0,UNKNOWN,Credit Card,Takeaway,2025-11-19
+TXN_6720383,Salad,5,5.0,25.0,,In-store,2025-11-19
+TXN_8240050,Tea,2,1.5,3.0,,In-store,2025-11-19
+TXN_9174094,Smoothie,2,4.0,8.0,Digital Wallet,In-store,2025-11-19
+TXN_1361776,Cookie,5,1.0,5.0,Digital Wallet,In-store,2025-11-19
+TXN_7523414,Salad,5,5.0,25.0,Credit Card,Takeaway,2025-11-19
+TXN_4397998,Juice,5,3.0,15.0,Digital Wallet,,2025-11-19
+TXN_1007435,Salad,1,5.0,5.0,,Takeaway,2025-11-19
+TXN_2088028,Smoothie,5,4.0,20.0,Credit Card,In-store,2025-11-19
+TXN_1771050,UNKNOWN,3,2.0,ERROR,Digital Wallet,Takeaway,2025-11-19
+TXN_8796572,Juice,1,3.0,3.0,Credit Card,In-store,2025-11-19
+TXN_8265417,Cake,1,3.0,UNKNOWN,ERROR,In-store,2025-11-19
+TXN_6978764,Salad,ERROR,5.0,10.0,ERROR,,2025-11-19
+TXN_2157051,Coffee,4,2.0,8.0,Digital Wallet,Takeaway,2025-11-19
+TXN_9957688,Juice,3,3.0,9.0,,In-store,2025-11-19
+TXN_0766308,Tea,5,1.5,7.5,Credit Card,Takeaway,2025-11-19
+TXN_7973282,,2,1.5,3.0,Digital Wallet,,2025-11-19
+TXN_2730956,Sandwich,5,4.0,UNKNOWN,Digital Wallet,In-store,2025-11-19
+TXN_9167281,Sandwich,2,4.0,8.0,Credit Card,,2025-11-19
+TXN_4815828,Coffee,3,2.0,6.0,Credit Card,,2025-11-19
+TXN_0029870,Cookie,5,1.0,5.0,Cash,ERROR,2025-11-19
+TXN_5587285,Coffee,1,2.0,2.0,Digital Wallet,,2025-11-19
+TXN_1729026,Sandwich,,4.0,20.0,Credit Card,,2025-11-19
+TXN_4524607,Tea,1,1.5,1.5,Digital Wallet,In-store,2025-11-19
+TXN_6857334,Salad,1,5.0,5.0,Credit Card,,2025-11-19
+TXN_7965949,Tea,UNKNOWN,1.5,3.0,Digital Wallet,In-store,2025-11-19
+TXN_3711805,Sandwich,4,4.0,16.0,Cash,Takeaway,2025-11-19
+TXN_4441589,Salad,4,5.0,20.0,,In-store,2025-11-19
+TXN_9997075,Salad,5,5.0,25.0,Digital Wallet,ERROR,2025-11-19
+TXN_5480719,Smoothie,4,4.0,16.0,Digital Wallet,,2025-11-19
+TXN_3348189,Salad,4,5.0,20.0,Credit Card,In-store,2025-11-19
+TXN_2972942,Juice,1,,3.0,Digital Wallet,In-store,2025-11-19
+TXN_4125760,Juice,5,3.0,15.0,Credit Card,,2025-11-19
+TXN_3080637,Cake,1,3.0,3.0,Credit Card,In-store,2025-11-19
+TXN_2585162,Tea,5,1.5,7.5,,In-store,2025-11-19
+TXN_7439752,Cake,5,3.0,15.0,Cash,ERROR,2025-11-19
+TXN_9069084,Smoothie,4,4.0,16.0,Credit Card,,2025-11-19
+TXN_4499034,Salad,3,5.0,15.0,UNKNOWN,,2025-11-19
+TXN_4928164,Juice,5,3.0,15.0,Cash,In-store,2025-11-19
+TXN_2812512,Sandwich,3,4.0,12.0,Cash,,2025-11-19
+TXN_0981672,Smoothie,3,4.0,12.0,Cash,In-store,2025-11-19
+TXN_2933798,Cake,4,3.0,12.0,Digital Wallet,In-store,2025-11-19
+TXN_5802331,Sandwich,2,4.0,8.0,Cash,Takeaway,2025-11-19
+TXN_3483601,Coffee,3,2.0,6.0,Credit Card,In-store,2025-11-19
+TXN_8699994,Smoothie,4,4.0,16.0,,In-store,2025-11-19
+TXN_2169302,Coffee,2,2.0,4.0,Cash,,2025-11-19
+TXN_7594575,Cake,5,3.0,15.0,Credit Card,In-store,2025-11-19
+TXN_4440131,Coffee,5,2.0,10.0,,In-store,2025-11-19
+TXN_9459831,Cookie,3,1.0,3.0,,,2025-11-19
+TXN_1483616,Coffee,2,2.0,4.0,Digital Wallet,UNKNOWN,2025-11-19
+TXN_8602250,Salad,4,5.0,20.0,Cash,,2025-11-19
+TXN_7722056,Cookie,3,1.0,3.0,Cash,ERROR,2025-11-19
+TXN_4049674,Coffee,1,2.0,2.0,Digital Wallet,,2025-11-19
+TXN_5455194,UNKNOWN,3,2.0,6.0,Digital Wallet,In-store,2025-11-19
+TXN_3211961,Cookie,ERROR,1.0,1.0,Credit Card,Takeaway,2025-11-19
+TXN_6106882,Smoothie,4,4.0,16.0,Digital Wallet,ERROR,2025-11-19
+TXN_1783063,Smoothie,4,4.0,ERROR,Digital Wallet,In-store,2025-11-19
+TXN_4414501,Cookie,2,1.0,2.0,,,2025-11-19
+TXN_2903620,,3,UNKNOWN,3.0,Digital Wallet,,2025-11-19
+TXN_7896524,Juice,3,3.0,9.0,Credit Card,In-store,2025-11-19
+TXN_3166847,Salad,3,ERROR,15.0,Cash,,2025-11-19
+TXN_8637727,Tea,5,UNKNOWN,7.5,ERROR,UNKNOWN,2025-11-19
+TXN_9401684,,ERROR,2.0,2.0,Digital Wallet,Takeaway,2025-11-19
+TXN_0198776,Juice,3,3.0,9.0,Cash,In-store,2025-11-19
+TXN_1841339,UNKNOWN,,5.0,20.0,Cash,,2025-11-19
+TXN_6874145,Coffee,1,2.0,2.0,,UNKNOWN,2025-11-19
+TXN_4227586,Cookie,3,1.0,3.0,,In-store,2025-11-19
+TXN_9590496,Smoothie,5,4.0,20.0,Credit Card,Takeaway,2025-11-19
+TXN_3976174,Salad,3,5.0,15.0,Credit Card,Takeaway,2025-11-19
+TXN_2574427,Juice,1,3.0,3.0,Cash,In-store,2025-11-19
+TXN_8004405,Sandwich,1,4.0,4.0,Credit Card,,2025-11-19
+TXN_7873048,Smoothie,3,4.0,12.0,Credit Card,In-store,2025-11-19
+TXN_1777905,Sandwich,5,4.0,20.0,Digital Wallet,Takeaway,2025-11-19
+TXN_9090718,Cake,3,3.0,9.0,,Takeaway,2025-11-19
+TXN_6554442,Tea,2,1.5,3.0,Credit Card,Takeaway,2025-11-19
+TXN_7029338,Smoothie,2,4.0,8.0,Digital Wallet,,2025-11-19
+TXN_1793725,Juice,4,3.0,,Cash,In-store,2025-11-19
+TXN_1404926,Juice,3,3.0,9.0,Credit Card,Takeaway,2025-11-19
+TXN_3242376,ERROR,2,1.0,2.0,Cash,UNKNOWN,2025-11-19
+TXN_5675765,Juice,2,3.0,6.0,Credit Card,In-store,2025-11-19
+TXN_1857356,Juice,2,3.0,6.0,Cash,,2025-11-19
+TXN_7186960,Cookie,1,1.0,,Credit Card,,2025-11-19
+TXN_7557433,Smoothie,1,4.0,4.0,,,2025-11-19
+TXN_0378036,Cookie,4,1.0,4.0,Credit Card,,2025-11-19
+TXN_3277396,Juice,2,3.0,6.0,Cash,Takeaway,2025-11-19
+TXN_2218593,Sandwich,1,4.0,4.0,Credit Card,,2025-11-19
+TXN_2575086,Coffee,,2.0,4.0,Credit Card,Takeaway,2025-11-19
+TXN_9093362,Salad,1,5.0,5.0,,In-store,2025-11-19
+TXN_3263372,ERROR,2,4.0,8.0,Credit Card,In-store,2025-11-19
+TXN_6006191,Salad,3,UNKNOWN,15.0,,In-store,2025-11-19
+TXN_2806283,Salad,UNKNOWN,UNKNOWN,5.0,,In-store,2025-11-19
+TXN_0454793,Tea,4,1.5,,Digital Wallet,In-store,2025-11-19
+TXN_2241007,Coffee,2,2.0,4.0,Cash,In-store,2025-11-19
+TXN_2107441,Sandwich,2,ERROR,8.0,Digital Wallet,,2025-11-19
+TXN_3894474,Cake,4,3.0,12.0,Digital Wallet,,2025-11-19
+TXN_6329932,Salad,5,5.0,25.0,,,2025-11-19
+TXN_1404256,Smoothie,4,4.0,16.0,Digital Wallet,ERROR,2025-11-19
+TXN_3363859,Salad,1,5.0,5.0,Cash,In-store,2025-11-19
+TXN_2980661,Juice,1,3.0,3.0,,,2025-11-19
+TXN_6956249,Tea,1,1.5,1.5,Digital Wallet,,2025-11-19
+TXN_2138164,Coffee,4,2.0,8.0,Credit Card,,2025-11-19
+TXN_5948277,,2,1.0,2.0,Cash,In-store,2025-11-19
+TXN_7994420,Smoothie,2,4.0,8.0,,In-store,2025-11-19
+TXN_9240433,Tea,3,1.5,4.5,Cash,In-store,2025-11-19
+TXN_1081009,Tea,5,1.5,7.5,Digital Wallet,,2025-11-19
+TXN_4248179,Salad,4,5.0,20.0,Credit Card,In-store,2025-11-19
+TXN_3990883,Juice,2,3.0,6.0,Digital Wallet,In-store,2025-11-19
+TXN_8537441,Cake,5,3.0,15.0,,,2025-11-19
+TXN_3271425,Cake,4,3.0,12.0,Credit Card,In-store,2025-11-19
+TXN_2781061,Cookie,5,1.0,5.0,Credit Card,Takeaway,2025-11-19
+TXN_3850964,Cookie,4,1.0,4.0,Cash,Takeaway,2025-11-19
+TXN_8960588,Cake,2,3.0,6.0,Cash,In-store,2025-11-19
+TXN_1213700,Juice,3,3.0,9.0,UNKNOWN,In-store,2025-11-19
+TXN_7596610,Juice,2,3.0,6.0,,Takeaway,2025-11-19
+TXN_4374941,Coffee,5,2.0,10.0,Cash,In-store,2025-11-19
+TXN_6977933,Salad,2,5.0,10.0,Credit Card,UNKNOWN,2025-11-19
+TXN_0835665,Juice,4,ERROR,12.0,Credit Card,In-store,2025-11-19
+TXN_8966576,Sandwich,4,4.0,16.0,Credit Card,In-store,2025-11-19
+TXN_7254532,Sandwich,1,4.0,4.0,Credit Card,In-store,2025-11-19
+TXN_7881876,Cake,2,3.0,6.0,UNKNOWN,UNKNOWN,2025-11-19
+TXN_5759307,,1,3.0,3.0,,In-store,2025-11-19
+TXN_8643354,Tea,3,ERROR,UNKNOWN,Digital Wallet,,2025-11-19
+TXN_7210830,Juice,5,3.0,15.0,Cash,Takeaway,2025-11-19
+TXN_9077236,Sandwich,3,4.0,12.0,Digital Wallet,,2025-11-19
+TXN_0762653,Sandwich,4,4.0,16.0,Credit Card,,2025-11-19
+TXN_0281746,UNKNOWN,5,2.0,10.0,Digital Wallet,Takeaway,2025-11-19
+TXN_5126407,Juice,1,3.0,3.0,Cash,,2025-11-19
+TXN_8946923,Sandwich,4,4.0,16.0,Cash,In-store,2025-11-19
+TXN_9464510,Tea,4,1.5,6.0,Credit Card,Takeaway,2025-11-19
+TXN_9523341,Tea,4,1.5,6.0,,Takeaway,2025-11-19
+TXN_1275570,Tea,2,1.5,3.0,Digital Wallet,In-store,2025-11-19
+TXN_7690514,Tea,5,UNKNOWN,7.5,Credit Card,,2025-11-19
+TXN_7179509,Tea,5,1.5,7.5,,In-store,2025-11-19
+TXN_3612186,Tea,3,1.5,4.5,,Takeaway,2025-11-19
+TXN_2079349,Coffee,4,2.0,8.0,,Takeaway,2025-11-19
+TXN_9933229,Juice,5,3.0,UNKNOWN,,Takeaway,2025-11-19
+TXN_6188607,Smoothie,1,4.0,4.0,Cash,Takeaway,2025-11-19
+TXN_6025202,Sandwich,1,4.0,4.0,Cash,,2025-11-19
+TXN_9751524,Coffee,5,2.0,10.0,,Takeaway,2025-11-19
+TXN_1414549,Juice,4,3.0,UNKNOWN,ERROR,In-store,2025-11-19
+TXN_3370943,Sandwich,3,4.0,12.0,,Takeaway,2025-11-19
+TXN_5142029,Coffee,5,2.0,10.0,Digital Wallet,Takeaway,2025-11-19
+TXN_1191918,Smoothie,4,4.0,16.0,Credit Card,,2025-11-19
+TXN_3331962,Sandwich,4,4.0,16.0,Cash,In-store,2025-11-19
+TXN_0460287,Juice,4,3.0,12.0,Credit Card,,2025-11-19
+TXN_1074448,Cookie,5,1.0,5.0,,Takeaway,2025-11-19
+TXN_1006096,Tea,1,1.5,1.5,Digital Wallet,Takeaway,2025-11-19
+TXN_1074591,Cake,2,3.0,6.0,Credit Card,In-store,2025-11-19
+TXN_5660963,Tea,4,1.5,6.0,Digital Wallet,,2025-11-19
+TXN_2730741,Juice,,3.0,9.0,Cash,Takeaway,2025-11-19
+TXN_7364790,Tea,3,1.5,4.5,,,2025-11-19
+TXN_8467209,Sandwich,5,4.0,20.0,Cash,,2025-11-19
+TXN_1907465,Sandwich,5,4.0,20.0,Digital Wallet,,2025-11-19
+TXN_5209199,Salad,3,5.0,15.0,Digital Wallet,,2025-11-19
+TXN_1948729,Juice,2,3.0,6.0,Digital Wallet,Takeaway,2025-11-19
+TXN_6643850,Cookie,5,1.0,5.0,Credit Card,,2025-11-19
+TXN_6049160,Tea,5,1.5,7.5,Cash,,2025-11-19
+TXN_0322938,Cookie,3,1.0,3.0,Cash,In-store,2025-11-19
+TXN_3223766,Tea,3,1.5,4.5,Digital Wallet,In-store,2025-11-19
+TXN_0988436,Juice,4,3.0,12.0,Credit Card,Takeaway,2025-11-19
+TXN_9851444,Cookie,2,1.0,2.0,Digital Wallet,,2025-11-19
+TXN_0078473,Cookie,4,1.0,4.0,,Takeaway,2025-11-19
+TXN_7419280,Juice,2,3.0,6.0,Credit Card,Takeaway,2025-11-19
+TXN_7109124,UNKNOWN,3,1.0,3.0,Credit Card,,2025-11-19
+TXN_5192072,Coffee,1,2.0,2.0,Digital Wallet,,2025-11-19
+TXN_7679000,Salad,5,5.0,25.0,ERROR,,2025-11-19
+TXN_4224757,Smoothie,4,4.0,16.0,Credit Card,ERROR,2025-11-19
+TXN_6283142,Tea,3,1.5,4.5,Credit Card,In-store,2025-11-19
+TXN_3697623,Coffee,,2.0,10.0,Digital Wallet,,2025-11-19
+TXN_6877252,Smoothie,3,4.0,12.0,Credit Card,In-store,2025-11-19
+TXN_2792897,Tea,2,1.5,3.0,Credit Card,,2025-11-19
+TXN_3039013,Salad,2,5.0,10.0,UNKNOWN,Takeaway,2025-11-19
+TXN_7490495,Tea,5,1.5,7.5,Credit Card,Takeaway,2025-11-19
+TXN_5623882,UNKNOWN,5,,15.0,,,2025-11-19
+TXN_8617545,Tea,4,1.5,6.0,,,2025-11-19
+TXN_0337936,Tea,4,1.5,6.0,,In-store,2025-11-19
+TXN_7572796,Coffee,UNKNOWN,2.0,2.0,Cash,In-store,2025-11-19
+TXN_6911041,Tea,1,1.5,1.5,ERROR,Takeaway,2025-11-19
+TXN_1120942,ERROR,2,5.0,10.0,Digital Wallet,In-store,2025-11-19
+TXN_0223097,Sandwich,3,4.0,12.0,Digital Wallet,ERROR,2025-11-19
+TXN_5204503,Sandwich,3,4.0,12.0,Digital Wallet,Takeaway,2025-11-19
+TXN_7773296,Cookie,5,1.0,5.0,Credit Card,,2025-11-19
+TXN_2566213,Cookie,5,1.0,5.0,Digital Wallet,Takeaway,2025-11-19
+TXN_5408974,Smoothie,3,4.0,12.0,Credit Card,UNKNOWN,2025-11-19
+TXN_7048012,Cake,2,3.0,6.0,Credit Card,Takeaway,2025-11-19
+TXN_9076622,Cake,UNKNOWN,3.0,3.0,UNKNOWN,,2025-11-19
+TXN_7236970,Cake,3,3.0,9.0,Cash,ERROR,2025-11-19
+TXN_7886822,Cake,4,3.0,12.0,Digital Wallet,In-store,2025-11-19
+TXN_8454464,Cookie,2,,2.0,Credit Card,In-store,2025-11-19
+TXN_1690684,Smoothie,2,4.0,8.0,Credit Card,In-store,2025-11-19
+TXN_3021343,Juice,3,3.0,9.0,,Takeaway,2025-11-19
+TXN_1962370,Sandwich,2,4.0,UNKNOWN,Cash,Takeaway,2025-11-19
+TXN_2575798,Cake,5,3.0,15.0,Cash,Takeaway,2025-11-19
+TXN_4359324,Cookie,2,1.0,2.0,Digital Wallet,Takeaway,2025-11-19
+TXN_2254141,Smoothie,5,4.0,20.0,Digital Wallet,Takeaway,2025-11-19
+TXN_1412163,Salad,5,5.0,25.0,Digital Wallet,In-store,2025-11-19
+TXN_6655807,Tea,UNKNOWN,1.5,4.5,,,2025-11-19
+TXN_5420656,Salad,5,5.0,25.0,Cash,In-store,2025-11-19
+TXN_1880055,Juice,,3.0,6.0,,In-store,2025-11-19
+TXN_2530512,Salad,3,5.0,15.0,Credit Card,,2025-11-19
+TXN_5262461,Smoothie,1,4.0,UNKNOWN,Digital Wallet,,2025-11-19
+TXN_6929830,Sandwich,5,4.0,20.0,Digital Wallet,In-store,2025-11-19
+TXN_8645132,Juice,3,UNKNOWN,9.0,Cash,Takeaway,2025-11-19
+TXN_1852110,Salad,1,5.0,5.0,Cash,Takeaway,2025-11-19
+TXN_7681792,Cake,5,3.0,15.0,Cash,,2025-11-19
+TXN_4433027,Coffee,5,2.0,10.0,,Takeaway,2025-11-19
+TXN_0853749,Cake,UNKNOWN,3.0,12.0,Cash,Takeaway,2025-11-19
+TXN_6298173,Smoothie,4,4.0,16.0,,In-store,2025-11-19
+TXN_3603744,Cake,5,3.0,15.0,Cash,,2025-11-19
+TXN_0818370,Sandwich,5,4.0,20.0,Credit Card,,2025-11-19
+TXN_9596071,Cookie,,1.0,2.0,Credit Card,Takeaway,2025-11-19
+TXN_5207724,Salad,UNKNOWN,5.0,25.0,Cash,Takeaway,2025-11-19
+TXN_8662085,Cake,1,3.0,3.0,Digital Wallet,In-store,2025-11-19
+TXN_9629396,Coffee,3,2.0,6.0,Credit Card,In-store,2025-11-19
+TXN_7077878,Smoothie,5,4.0,20.0,Digital Wallet,In-store,2025-11-19
+TXN_0160268,Coffee,1,2.0,2.0,Credit Card,,2025-11-19
+TXN_1320108,Salad,2,5.0,10.0,,In-store,2025-11-19
+TXN_6633451,Juice,3,3.0,9.0,Digital Wallet,Takeaway,2025-11-19
+TXN_9448962,Tea,3,1.5,4.5,Cash,In-store,2025-11-19
+TXN_9856127,Tea,2,1.5,3.0,,,2025-11-19
+TXN_6464759,UNKNOWN,UNKNOWN,2.0,4.0,,,2025-11-19
+TXN_4231016,Salad,4,5.0,20.0,Credit Card,In-store,2025-11-19
+TXN_7655969,Smoothie,4,4.0,16.0,,,2025-11-19
+TXN_3236426,Coffee,2,2.0,4.0,Digital Wallet,Takeaway,2025-11-19
+TXN_3838968,UNKNOWN,1,2.0,2.0,ERROR,Takeaway,2025-11-19
+TXN_3900166,Juice,4,3.0,UNKNOWN,Credit Card,In-store,2025-11-19
+TXN_4173250,Juice,5,3.0,15.0,,In-store,2025-11-19
+TXN_0855274,Salad,4,5.0,20.0,Digital Wallet,In-store,2025-11-19
+TXN_0692705,Juice,2,3.0,6.0,Cash,Takeaway,2025-11-19
+TXN_5634798,Salad,1,5.0,5.0,,In-store,2025-11-19
+TXN_8745090,Tea,4,1.5,6.0,,In-store,2025-11-19
+TXN_6592650,Juice,3,3.0,UNKNOWN,Digital Wallet,UNKNOWN,2025-11-19
+TXN_9012978,Cookie,1,1.0,1.0,Digital Wallet,,2025-11-19
+TXN_4795429,Salad,1,5.0,5.0,,,2025-11-19
+TXN_2086694,Sandwich,1,ERROR,4.0,,,2025-11-19
+TXN_8774009,Smoothie,5,4.0,20.0,ERROR,In-store,2025-11-19
+TXN_2167625,Juice,3,3.0,ERROR,Digital Wallet,Takeaway,2025-11-19
+TXN_4522474,UNKNOWN,1,ERROR,4.0,Credit Card,,2025-11-19
+TXN_9580340,Juice,1,3.0,3.0,Cash,Takeaway,2025-11-19
+TXN_6697496,Coffee,ERROR,2.0,8.0,,Takeaway,2025-11-19
+TXN_7087827,Coffee,5,2.0,10.0,Cash,Takeaway,2025-11-19
+TXN_5852032,Salad,2,5.0,10.0,Digital Wallet,In-store,2025-11-19
+TXN_2843667,Coffee,4,2.0,8.0,ERROR,,2025-11-19
+TXN_5230827,Sandwich,5,ERROR,20.0,Cash,Takeaway,2025-11-19
+TXN_7955161,Sandwich,2,4.0,8.0,Credit Card,,2025-11-19
+TXN_3969725,Cake,5,3.0,15.0,Credit Card,In-store,2025-11-19
+TXN_5809456,Juice,4,3.0,12.0,Digital Wallet,,2025-11-19
+TXN_3420809,Smoothie,3,4.0,12.0,Digital Wallet,Takeaway,2025-11-19
+TXN_3161774,Cookie,3,1.0,UNKNOWN,,,2025-11-19
+TXN_8463595,Salad,3,5.0,15.0,Credit Card,In-store,2025-11-19
+TXN_1863471,Cookie,2,1.0,2.0,Credit Card,,2025-11-19
+TXN_5186563,Cake,1,3.0,3.0,ERROR,In-store,2025-11-19
+TXN_0293687,Coffee,2,2.0,4.0,Cash,In-store,2025-11-19
+TXN_1582355,Sandwich,1,4.0,4.0,,,2025-11-19
+TXN_6194890,UNKNOWN,1,1.0,1.0,Digital Wallet,,2025-11-19
+TXN_7775142,Salad,3,5.0,15.0,,In-store,2025-11-19
+TXN_6384808,Cookie,2,,2.0,Credit Card,In-store,2025-11-19
+TXN_6299707,Cake,4,3.0,12.0,Cash,UNKNOWN,2025-11-19
+TXN_9081255,Cookie,1,UNKNOWN,1.0,Cash,,2025-11-19
+TXN_4093606,Cookie,1,1.0,1.0,Credit Card,Takeaway,2025-11-19
+TXN_6196798,UNKNOWN,4,5.0,20.0,Cash,In-store,2025-11-19
+TXN_4302846,Coffee,1,2.0,2.0,Credit Card,In-store,2025-11-19
+TXN_6019743,Tea,5,1.5,7.5,Cash,Takeaway,2025-11-19
+TXN_9930460,Sandwich,1,4.0,4.0,,Takeaway,2025-11-19
+TXN_1074246,Cake,2,3.0,6.0,,,2025-11-19
+TXN_7753363,Juice,UNKNOWN,3.0,15.0,,In-store,2025-11-19
+TXN_5324791,UNKNOWN,5,5.0,25.0,Digital Wallet,,2025-11-19
+TXN_1268427,Tea,2,1.5,3.0,Cash,In-store,2025-11-19
+TXN_4706586,Tea,5,1.5,7.5,Digital Wallet,Takeaway,2025-11-19
+TXN_0265361,,5,2.0,10.0,Digital Wallet,In-store,2025-11-19
+TXN_7949683,Cookie,2,1.0,2.0,Credit Card,,2025-11-19
+TXN_6980400,UNKNOWN,1,1.5,1.5,UNKNOWN,,2025-11-19
+TXN_3439522,Coffee,1,2.0,2.0,,In-store,2025-11-19
+TXN_0511587,Smoothie,4,4.0,16.0,UNKNOWN,In-store,2025-11-19
+TXN_0204464,Juice,5,3.0,15.0,Credit Card,,2025-11-19
+TXN_2580228,UNKNOWN,1,5.0,5.0,,,2025-11-19
+TXN_7629640,Tea,2,1.5,3.0,Credit Card,UNKNOWN,2025-11-19
+TXN_4039890,Sandwich,2,UNKNOWN,8.0,,UNKNOWN,2025-11-19
+TXN_7920286,Juice,2,3.0,6.0,Digital Wallet,In-store,2025-11-19
+TXN_8164876,Cake,1,3.0,3.0,Cash,In-store,2025-11-19
+TXN_9377445,Juice,1,3.0,3.0,Credit Card,In-store,2025-11-19
+TXN_3770884,Cookie,4,1.0,4.0,ERROR,Takeaway,2025-11-19
+TXN_6916822,Tea,3,1.5,4.5,Digital Wallet,Takeaway,2025-11-19
+TXN_7589142,UNKNOWN,3,2.0,6.0,Cash,,2025-11-19
+TXN_6540615,Cookie,4,1.0,4.0,Digital Wallet,Takeaway,2025-11-19
+TXN_5965121,Cookie,1,1.0,1.0,Digital Wallet,In-store,2025-11-19
+TXN_8704581,Sandwich,1,4.0,4.0,Digital Wallet,Takeaway,2025-11-19
+TXN_2813901,Coffee,1,2.0,2.0,Credit Card,In-store,2025-11-19
+TXN_2732085,UNKNOWN,4,2.0,8.0,Credit Card,Takeaway,2025-11-19
+TXN_5110191,,1,3.0,3.0,,,2025-11-19
+TXN_2818162,Smoothie,3,4.0,12.0,Digital Wallet,Takeaway,2025-11-19
+TXN_9911950,UNKNOWN,3,1.0,3.0,,Takeaway,2025-11-19
+TXN_3914319,Coffee,1,2.0,2.0,UNKNOWN,,2025-11-19
+TXN_0353037,Smoothie,5,4.0,20.0,Digital Wallet,Takeaway,2025-11-19
+TXN_3612642,Coffee,1,2.0,2.0,Digital Wallet,In-store,2025-11-19
+TXN_8493074,Salad,2,5.0,10.0,Digital Wallet,,2025-11-19
+TXN_7177820,Juice,5,3.0,15.0,Credit Card,,2025-11-19
+TXN_4352278,Cake,2,3.0,6.0,Credit Card,,2025-11-19
+TXN_8475169,Coffee,5,2.0,10.0,,,2025-11-19
+TXN_1477273,Cookie,1,1.0,1.0,Credit Card,Takeaway,2025-11-19
+TXN_9349918,Juice,4,3.0,12.0,Cash,In-store,2025-11-19
+TXN_9114026,Coffee,4,2.0,8.0,Credit Card,Takeaway,2025-11-19
+TXN_7079355,Juice,3,3.0,9.0,Digital Wallet,In-store,2025-11-19
+TXN_5504671,Cookie,4,1.0,4.0,,,2025-11-19
+TXN_0784521,Cookie,4,1.0,4.0,ERROR,In-store,2025-11-19
+TXN_0880258,Tea,5,1.5,7.5,Cash,Takeaway,2025-11-19
+TXN_0312610,Juice,3,3.0,9.0,Digital Wallet,,2025-11-19
+TXN_1009094,Tea,5,1.5,7.5,Cash,,2025-11-19
+TXN_7623202,Cake,1,3.0,3.0,,Takeaway,2025-11-19
+TXN_6306857,Cake,3,3.0,9.0,Digital Wallet,In-store,2025-11-19
+TXN_1585299,Juice,3,3.0,9.0,,In-store,2025-11-19
+TXN_6405041,ERROR,5,2.0,10.0,,,2025-11-19
+TXN_3737384,Tea,5,1.5,7.5,Credit Card,In-store,2025-11-19
+TXN_4418435,Sandwich,4,4.0,UNKNOWN,,,2025-11-19
+TXN_1837385,Juice,4,3.0,ERROR,Credit Card,,2025-11-19
+TXN_4940265,Cake,4,3.0,12.0,Credit Card,In-store,2025-11-19
+TXN_5571446,Coffee,5,2.0,10.0,Digital Wallet,Takeaway,2025-11-19
+TXN_5749816,,2,4.0,8.0,Cash,,2025-11-19
+TXN_4986788,Salad,1,5.0,5.0,Cash,Takeaway,2025-11-19
+TXN_3386414,Coffee,2,2.0,4.0,Credit Card,In-store,2025-11-19
+TXN_2137521,Tea,5,1.5,7.5,Digital Wallet,Takeaway,2025-11-19
+TXN_2105674,Cake,3,3.0,9.0,,Takeaway,2025-11-19
+TXN_1131535,Cake,2,3.0,6.0,,Takeaway,2025-11-19
+TXN_1316997,Cookie,4,1.0,4.0,,Takeaway,2025-11-19
+TXN_5728817,Salad,5,5.0,25.0,Cash,,2025-11-19
+TXN_5801424,Coffee,2,2.0,4.0,,,2025-11-19
+TXN_9727661,Cookie,3,1.0,3.0,Credit Card,,2025-11-19
+TXN_2912418,ERROR,4,5.0,20.0,Digital Wallet,,2025-11-19
+TXN_6180698,Sandwich,1,4.0,4.0,Credit Card,In-store,2025-11-19
+TXN_2548111,Salad,5,5.0,25.0,,UNKNOWN,2025-11-19
+TXN_7855841,Coffee,4,2.0,8.0,,,2025-11-19
+TXN_2455083,UNKNOWN,ERROR,1.0,4.0,,In-store,2025-11-19
+TXN_6583063,Salad,5,5.0,25.0,Digital Wallet,In-store,2025-11-19
+TXN_5885527,ERROR,2,4.0,8.0,Cash,ERROR,2025-11-19
+TXN_4386826,Tea,1,1.5,1.5,Cash,,2025-11-19
+TXN_6118422,Juice,1,3.0,3.0,,,2025-11-19
+TXN_5810449,Cookie,5,1.0,5.0,Credit Card,Takeaway,2025-11-19
+TXN_9046345,Coffee,ERROR,2.0,2.0,,Takeaway,2025-11-19
+TXN_5233849,Cake,2,3.0,6.0,ERROR,In-store,2025-11-19
+TXN_6978885,Sandwich,4,4.0,16.0,Cash,In-store,2025-11-19
+TXN_2674746,Cake,4,3.0,12.0,Cash,In-store,2025-11-19
+TXN_9722809,Cake,1,3.0,3.0,Credit Card,Takeaway,2025-11-19
+TXN_6007652,Sandwich,4,4.0,16.0,Digital Wallet,,2025-11-19
+TXN_7253542,Smoothie,4,4.0,16.0,,Takeaway,2025-11-19
+TXN_4535341,Smoothie,3,4.0,12.0,Cash,Takeaway,2025-11-19
+TXN_5785911,,1,3.0,3.0,Digital Wallet,Takeaway,2025-11-19
+TXN_3552571,Juice,1,3.0,3.0,,In-store,2025-11-19
+TXN_9140013,Cake,1,3.0,3.0,Credit Card,In-store,2025-11-19
+TXN_3526814,Coffee,3,2.0,6.0,Cash,,2025-11-19
+TXN_8720876,Cookie,3,1.0,3.0,Credit Card,Takeaway,2025-11-19
+TXN_5302150,Cookie,5,1.0,5.0,Credit Card,Takeaway,2025-11-19
+TXN_7690041,ERROR,2,3.0,6.0,Digital Wallet,,2025-11-19
+TXN_9571766,Smoothie,3,4.0,12.0,UNKNOWN,,2025-11-19
+TXN_6192297,Smoothie,1,4.0,4.0,,In-store,2025-11-19
+TXN_4485153,Juice,4,3.0,12.0,,,2025-11-19
+TXN_5121374,,5,5.0,25.0,Credit Card,,2025-11-19
+TXN_8397106,Sandwich,1,4.0,4.0,Digital Wallet,In-store,2025-11-19
+TXN_9924215,Coffee,4,2.0,8.0,Cash,In-store,2025-11-19
+TXN_1860023,UNKNOWN,4,3.0,12.0,ERROR,,2025-11-19
+TXN_8310005,Sandwich,1,4.0,4.0,Cash,Takeaway,2025-11-19
+TXN_3254985,UNKNOWN,3,3.0,9.0,Digital Wallet,In-store,2025-11-19
+TXN_2373692,Cake,1,3.0,3.0,,,2025-11-19
+TXN_2925535,UNKNOWN,5,4.0,20.0,UNKNOWN,In-store,2025-11-19
+TXN_6971925,Sandwich,2,4.0,8.0,Digital Wallet,,2025-11-19
+TXN_5969662,Sandwich,,4.0,20.0,Cash,In-store,2025-11-19
+TXN_9670581,Sandwich,3,4.0,12.0,Digital Wallet,UNKNOWN,2025-11-19
+TXN_2787992,Sandwich,3,,12.0,Cash,Takeaway,2025-11-19
+TXN_6981798,Tea,1,1.5,1.5,Cash,,2025-11-19
+TXN_9125450,Juice,2,3.0,6.0,Credit Card,,2025-11-19
+TXN_2451223,Salad,2,5.0,10.0,Cash,In-store,2025-11-19
+TXN_0564175,Coffee,5,2.0,10.0,Digital Wallet,,2025-11-19
+TXN_6233258,,ERROR,2.0,8.0,,Takeaway,2025-11-19
+TXN_1735158,Salad,5,5.0,25.0,,,2025-11-19
+TXN_5663874,Tea,2,1.5,3.0,,UNKNOWN,2025-11-19
+TXN_9560219,Sandwich,4,ERROR,16.0,Cash,,2025-11-19
+TXN_0495700,Smoothie,2,4.0,8.0,Cash,Takeaway,2025-11-19
+TXN_4340180,Cake,ERROR,3.0,9.0,Cash,Takeaway,2025-11-19
+TXN_3919850,Coffee,3,2.0,6.0,ERROR,ERROR,2025-11-19
+TXN_9387137,Juice,5,3.0,15.0,Digital Wallet,,2025-11-19
+TXN_1863840,Smoothie,5,4.0,20.0,Cash,,2025-11-19
+TXN_4317820,Salad,2,5.0,10.0,Credit Card,,2025-11-19
+TXN_8845420,Tea,3,1.5,4.5,Credit Card,Takeaway,2025-11-19
+TXN_5544704,Juice,3,3.0,9.0,Digital Wallet,ERROR,2025-11-19
+TXN_6375785,Sandwich,1,4.0,ERROR,,In-store,2025-11-19
+TXN_9445768,Coffee,2,2.0,4.0,Digital Wallet,,2025-11-19
+TXN_9531584,Cookie,5,1.0,5.0,Cash,In-store,2025-11-19
+TXN_5877969,Cake,2,3.0,6.0,Digital Wallet,,2025-11-19
+TXN_2979927,Smoothie,UNKNOWN,4.0,4.0,,In-store,2025-11-19
+TXN_1375620,Cake,2,3.0,6.0,,,2025-11-19
+TXN_4479354,Tea,3,1.5,4.5,,In-store,2025-11-19
+TXN_8805850,Cake,5,3.0,15.0,,In-store,2025-11-19
+TXN_5368822,Cookie,3,1.0,3.0,Digital Wallet,Takeaway,2025-11-19
+TXN_2518358,Sandwich,5,4.0,20.0,Digital Wallet,Takeaway,2025-11-19
+TXN_8015355,Cake,2,3.0,6.0,,Takeaway,2025-11-19
+TXN_5032911,Sandwich,5,4.0,20.0,Digital Wallet,Takeaway,2025-11-19
+TXN_1080645,Sandwich,1,4.0,4.0,UNKNOWN,,2025-11-19
+TXN_8682563,Cookie,3,1.0,3.0,Credit Card,UNKNOWN,2025-11-19
+TXN_4104385,Sandwich,2,4.0,8.0,Credit Card,Takeaway,2025-11-19
+TXN_7715148,Juice,1,3.0,3.0,,In-store,2025-11-19
+TXN_4679865,Salad,3,5.0,15.0,Digital Wallet,Takeaway,2025-11-19
+TXN_2975404,Smoothie,2,4.0,8.0,Credit Card,In-store,2025-11-19
+TXN_5893524,Coffee,4,2.0,8.0,Cash,,2025-11-19
+TXN_1253404,Smoothie,3,4.0,12.0,Digital Wallet,Takeaway,2025-11-19
+TXN_0934316,Coffee,2,2.0,4.0,,Takeaway,2025-11-19
+TXN_1643932,Sandwich,4,4.0,16.0,Digital Wallet,,2025-11-19
+TXN_9041835,Sandwich,3,4.0,12.0,Cash,,2025-11-19
+TXN_1034327,Tea,4,1.5,6.0,Digital Wallet,In-store,2025-11-19
+TXN_0660502,Salad,4,5.0,20.0,Credit Card,In-store,2025-11-19
+TXN_9978687,Salad,2,5.0,10.0,Cash,In-store,2025-11-19
+TXN_3661483,ERROR,3,3.0,UNKNOWN,Cash,In-store,2025-11-19
+TXN_6152871,Coffee,2,2.0,4.0,,UNKNOWN,2025-11-19
+TXN_0146002,Smoothie,5,4.0,20.0,,In-store,2025-11-19
+TXN_9663479,Juice,5,3.0,15.0,ERROR,Takeaway,2025-11-19
+TXN_8600623,Smoothie,3,4.0,UNKNOWN,Credit Card,,2025-11-19
+TXN_9071550,Smoothie,1,4.0,4.0,Digital Wallet,Takeaway,2025-11-19
+TXN_0607116,Coffee,2,2.0,4.0,Cash,,2025-11-19
+TXN_8908481,Cookie,4,1.0,4.0,Digital Wallet,In-store,2025-11-19
+TXN_0051073,Cookie,5,1.0,5.0,Cash,In-store,2025-11-19
+TXN_1853495,Salad,1,5.0,5.0,UNKNOWN,,2025-11-19
+TXN_0869349,Juice,2,3.0,6.0,Credit Card,In-store,2025-11-19
+TXN_9558765,Coffee,4,2.0,8.0,Cash,Takeaway,2025-11-19
+TXN_1584278,Salad,1,5.0,ERROR,,,2025-11-19
+TXN_3020251,UNKNOWN,3,1.5,4.5,Cash,In-store,2025-11-19
+TXN_8664456,Coffee,5,2.0,10.0,,In-store,2025-11-19
+TXN_8030486,Sandwich,1,4.0,4.0,Credit Card,,2025-11-19
+TXN_2652761,Cake,1,3.0,3.0,UNKNOWN,Takeaway,2025-11-19
+TXN_2822070,Sandwich,1,4.0,4.0,Cash,,2025-11-19
+TXN_9041148,Coffee,2,2.0,4.0,Cash,,2025-11-19
+TXN_1800724,Salad,4,5.0,20.0,Cash,In-store,2025-11-19
+TXN_0471872,Smoothie,2,4.0,8.0,Digital Wallet,ERROR,2025-11-19
+TXN_3115197,Cake,3,3.0,9.0,Digital Wallet,In-store,2025-11-19
+TXN_4351830,Salad,1,5.0,5.0,Credit Card,Takeaway,2025-11-19
+TXN_5855323,ERROR,4,4.0,16.0,Credit Card,Takeaway,2025-11-19
+TXN_8262556,Smoothie,2,4.0,8.0,Digital Wallet,,2025-11-19
+TXN_6328160,Cake,1,3.0,3.0,ERROR,In-store,2025-11-19
+TXN_7279351,Sandwich,5,4.0,20.0,Cash,In-store,2025-11-19
+TXN_3909598,Smoothie,1,4.0,4.0,,In-store,2025-11-19
+TXN_1827014,Sandwich,2,4.0,8.0,Cash,Takeaway,2025-11-19
+TXN_4062749,Cookie,2,1.0,2.0,Digital Wallet,,2025-11-19
+TXN_4096084,,2,4.0,,Digital Wallet,,2025-11-19
+TXN_2826199,Smoothie,3,4.0,12.0,Digital Wallet,,2025-11-19
+TXN_1766618,Cake,4,3.0,,Cash,In-store,2025-11-19
+TXN_2345500,ERROR,5,1.5,7.5,Cash,In-store,2025-11-19
+TXN_4573029,Coffee,1,,2.0,,,2025-11-19
+TXN_1492191,Coffee,4,2.0,8.0,Cash,In-store,2025-11-19
+TXN_3638283,Sandwich,1,4.0,4.0,,In-store,2025-11-19
+TXN_8210414,Salad,1,5.0,5.0,Digital Wallet,Takeaway,2025-11-19
+TXN_2874895,ERROR,2,1.5,3.0,Cash,,2025-11-19
+TXN_1365856,Juice,5,ERROR,15.0,,In-store,2025-11-19
+TXN_3364043,Smoothie,3,4.0,12.0,Credit Card,In-store,2025-11-19
+TXN_8808232,Cake,3,3.0,9.0,Cash,,2025-11-19
+TXN_6497098,Juice,3,3.0,9.0,,In-store,2025-11-19
+TXN_4778636,,5,4.0,20.0,Cash,,2025-11-19
+TXN_4333802,UNKNOWN,4,1.5,6.0,,In-store,2025-11-19
+TXN_3525857,Juice,1,3.0,3.0,,,2025-11-19
+TXN_9271070,Salad,1,5.0,5.0,Cash,,2025-11-19
+TXN_6408711,Cookie,3,1.0,3.0,Digital Wallet,Takeaway,2025-11-19
+TXN_3436266,,1,2.0,2.0,,In-store,2025-11-19
+TXN_6440044,Coffee,1,2.0,2.0,Cash,In-store,2025-11-19
+TXN_2286597,Smoothie,2,4.0,8.0,,In-store,2025-11-19
+TXN_1176118,Juice,3,3.0,9.0,,ERROR,2025-11-19
+TXN_2799590,Juice,1,3.0,3.0,,In-store,2025-11-19
+TXN_5904671,Cookie,3,1.0,3.0,Credit Card,In-store,2025-11-19
+TXN_2309029,Cake,3,3.0,,Credit Card,UNKNOWN,2025-11-19
+TXN_9180289,Smoothie,5,4.0,20.0,Cash,,2025-11-19
+TXN_5156097,ERROR,3,2.0,6.0,Credit Card,,2025-11-19
+TXN_4385714,Coffee,2,2.0,4.0,,Takeaway,2025-11-19
+TXN_0586393,Cake,5,3.0,15.0,Digital Wallet,In-store,2025-11-19
+TXN_7273055,Juice,1,3.0,3.0,Cash,In-store,2025-11-19
+TXN_6395390,Coffee,3,2.0,6.0,,,2025-11-19
+TXN_8831617,Juice,5,3.0,15.0,ERROR,Takeaway,2025-11-19
+TXN_6638754,Cookie,1,1.0,1.0,Credit Card,,2025-11-19
+TXN_1083715,Juice,5,3.0,15.0,,In-store,2025-11-19
+TXN_2156119,Coffee,5,2.0,10.0,,Takeaway,2025-11-19
+TXN_4661915,Cake,3,3.0,9.0,Cash,In-store,2025-11-19
+TXN_6916615,Coffee,2,2.0,4.0,Digital Wallet,ERROR,2025-11-19
+TXN_9791920,Smoothie,3,4.0,12.0,Digital Wallet,,2025-11-19
+TXN_5656599,Coffee,UNKNOWN,2.0,10.0,Cash,,2025-11-19
+TXN_5370300,Smoothie,4,4.0,16.0,Credit Card,In-store,2025-11-19
+TXN_4392918,Juice,5,3.0,15.0,ERROR,In-store,2025-11-19
+TXN_5276720,Cake,3,3.0,9.0,Digital Wallet,In-store,2025-11-19
+TXN_2396896,Coffee,5,2.0,10.0,,,2025-11-19
+TXN_4218166,UNKNOWN,4,1.5,6.0,Credit Card,,2025-11-19
+TXN_4744360,Cake,3,3.0,9.0,Credit Card,,2025-11-19
+TXN_4077557,Smoothie,2,ERROR,8.0,Credit Card,,2025-11-19
+TXN_1029873,Cookie,4,1.0,4.0,Cash,In-store,2025-11-19
+TXN_9648712,Coffee,1,2.0,2.0,,,2025-11-19
+TXN_9357899,Coffee,3,2.0,6.0,Credit Card,In-store,2025-11-19
+TXN_8866663,Tea,3,1.5,4.5,UNKNOWN,In-store,2025-11-19
+TXN_1378196,Cookie,5,1.0,5.0,Digital Wallet,In-store,2025-11-19
+TXN_1784780,Tea,3,1.5,4.5,Credit Card,In-store,2025-11-19
+TXN_7789382,Tea,1,,1.5,,In-store,2025-11-19
+TXN_6769930,Sandwich,5,4.0,20.0,Credit Card,In-store,2025-11-19
+TXN_4970504,Smoothie,UNKNOWN,4.0,16.0,Digital Wallet,,2025-11-19
+TXN_7312288,Cookie,3,1.0,3.0,Digital Wallet,In-store,2025-11-19
+TXN_3204414,Sandwich,5,4.0,UNKNOWN,UNKNOWN,Takeaway,2025-11-19
+TXN_4116843,Sandwich,3,4.0,12.0,Credit Card,In-store,2025-11-19
+TXN_3200554,Tea,2,UNKNOWN,3.0,Digital Wallet,ERROR,2025-11-19
+TXN_2093081,Cookie,4,1.0,4.0,Digital Wallet,In-store,2025-11-19
+TXN_7216059,Coffee,4,2.0,8.0,,In-store,2025-11-19
+TXN_8330196,ERROR,2,3.0,6.0,Credit Card,Takeaway,2025-11-19
+TXN_0224473,Salad,3,5.0,15.0,,Takeaway,2025-11-19
+TXN_8842172,Cake,4,3.0,12.0,Credit Card,,2025-11-19
+TXN_2560051,Coffee,3,2.0,6.0,Digital Wallet,In-store,2025-11-19
+TXN_6792179,Cake,3,3.0,9.0,,In-store,2025-11-19
+TXN_9353924,Juice,4,3.0,12.0,,Takeaway,2025-11-19
+TXN_8392371,Tea,3,1.5,4.5,Cash,ERROR,2025-11-19
+TXN_5097308,Sandwich,1,4.0,4.0,,,2025-11-19
+TXN_2508523,Smoothie,3,4.0,12.0,Digital Wallet,Takeaway,2025-11-19
+TXN_1747421,Coffee,5,2.0,10.0,Digital Wallet,In-store,2025-11-19
+TXN_6569475,Juice,5,3.0,15.0,,,2025-11-19
+TXN_8156321,Salad,2,5.0,10.0,Digital Wallet,ERROR,2025-11-19
+TXN_2833666,Juice,3,3.0,9.0,Cash,Takeaway,2025-11-19
+TXN_0306601,Coffee,5,2.0,10.0,Credit Card,In-store,2025-11-19
+TXN_6150786,Sandwich,1,4.0,4.0,Digital Wallet,In-store,2025-11-19
+TXN_7200628,Tea,5,1.5,7.5,Credit Card,In-store,2025-11-19
+TXN_1402259,Tea,2,1.5,3.0,,,2025-11-19
+TXN_1225273,Cookie,3,1.0,3.0,Credit Card,In-store,2025-11-19
+TXN_9031496,Cookie,5,1.0,5.0,ERROR,,2025-11-19
+TXN_4239573,Sandwich,5,4.0,20.0,,,2025-11-19
+TXN_5416284,Smoothie,2,4.0,ERROR,Cash,,2025-11-19
+TXN_2346935,Cake,5,3.0,15.0,,Takeaway,2025-11-19
+TXN_3581224,Sandwich,1,4.0,4.0,Digital Wallet,,2025-11-19
+TXN_5528666,Salad,5,5.0,25.0,Credit Card,,2025-11-19
+TXN_5421437,Sandwich,3,4.0,12.0,Cash,In-store,2025-11-19
+TXN_4306484,ERROR,4,4.0,16.0,Cash,In-store,2025-11-19
+TXN_9349972,Cake,2,3.0,6.0,,Takeaway,2025-11-19
+TXN_9071051,Juice,3,3.0,9.0,Digital Wallet,Takeaway,2025-11-19
+TXN_6609778,Tea,4,1.5,6.0,Credit Card,In-store,2025-11-19
+TXN_5970231,Tea,UNKNOWN,1.5,1.5,Credit Card,Takeaway,2025-11-19
+TXN_9867643,Tea,4,1.5,6.0,,,2025-11-19
+TXN_2864705,Tea,1,1.5,1.5,Cash,,2025-11-19
+TXN_3923250,Tea,1,1.5,1.5,Cash,In-store,2025-11-19
+TXN_9380976,Cookie,3,1.0,3.0,Cash,In-store,2025-11-19
+TXN_5691558,Salad,UNKNOWN,5.0,10.0,Digital Wallet,Takeaway,2025-11-19
+TXN_2440061,Smoothie,4,4.0,16.0,Credit Card,Takeaway,2025-11-19
+TXN_2267797,Juice,5,3.0,15.0,,In-store,2025-11-19
+TXN_4859199,ERROR,3,1.5,4.5,Credit Card,,2025-11-19
+TXN_0577483,Sandwich,3,4.0,12.0,Digital Wallet,,2025-11-19
+TXN_9208516,UNKNOWN,5,4.0,20.0,Cash,In-store,2025-11-19
+TXN_3644391,Cake,3,3.0,9.0,Credit Card,UNKNOWN,2025-11-19
+TXN_1626844,Salad,3,5.0,15.0,,Takeaway,2025-11-19
+TXN_2508889,Cake,5,3.0,15.0,Digital Wallet,In-store,2025-11-19
+TXN_5753936,Sandwich,1,4.0,4.0,,In-store,2025-11-19
+TXN_0427943,Smoothie,2,,8.0,,UNKNOWN,2025-11-19
+TXN_4810883,Juice,5,3.0,15.0,,In-store,2025-11-19
+TXN_7227474,Salad,3,5.0,15.0,Digital Wallet,In-store,2025-11-19
+TXN_7847370,Sandwich,1,4.0,4.0,,Takeaway,2025-11-19
+TXN_5670421,Tea,2,1.5,3.0,,,2025-11-19
+TXN_3428987,Cookie,3,1.0,3.0,,Takeaway,2025-11-19
+TXN_3245992,Cake,3,3.0,9.0,Cash,In-store,2025-11-19
+TXN_8123693,Juice,2,3.0,6.0,Credit Card,In-store,2025-11-19
+TXN_9943228,Salad,3,5.0,15.0,Digital Wallet,,2025-11-19
+TXN_6425411,Sandwich,1,4.0,4.0,Digital Wallet,In-store,2025-11-19
+TXN_4957187,Tea,4,1.5,6.0,,,2025-11-19
+TXN_2032402,Cookie,2,1.0,2.0,,In-store,2025-11-19
+TXN_2323388,Cookie,4,1.0,4.0,Digital Wallet,,2025-11-19
+TXN_9433404,Salad,4,5.0,20.0,,Takeaway,2025-11-19
+TXN_8980825,Salad,2,5.0,10.0,Cash,In-store,2025-11-19
+TXN_9882124,Coffee,1,2.0,2.0,Credit Card,Takeaway,2025-11-19
+TXN_0453397,Tea,3,1.5,,,In-store,2025-11-19
+TXN_1751556,Coffee,1,2.0,2.0,Digital Wallet,,2025-11-19
+TXN_5919695,Sandwich,2,4.0,8.0,Credit Card,In-store,2025-11-19
+TXN_4925050,,5,3.0,15.0,Cash,,2025-11-19
+TXN_6389977,Tea,5,1.5,7.5,Digital Wallet,In-store,2025-11-19
+TXN_6031957,Cake,5,3.0,15.0,,,2025-11-19
+TXN_7128225,Salad,5,5.0,25.0,Cash,In-store,2025-11-19
+TXN_3172498,Smoothie,1,4.0,4.0,Credit Card,Takeaway,2025-11-19
+TXN_2558509,Salad,1,5.0,5.0,,,2025-11-19
+TXN_7454662,Juice,1,3.0,3.0,Cash,In-store,2025-11-19
+TXN_4393560,ERROR,5,1.5,7.5,Digital Wallet,UNKNOWN,2025-11-19
+TXN_7751237,Cake,3,3.0,9.0,Digital Wallet,In-store,2025-11-19
+TXN_8504575,Cookie,4,1.0,4.0,Credit Card,In-store,2025-11-19
+TXN_0844835,Juice,1,3.0,3.0,Cash,,2025-11-19
+TXN_0876353,ERROR,5,1.5,7.5,Digital Wallet,,2025-11-19
+TXN_8796113,Cookie,UNKNOWN,1.0,1.0,Cash,,2025-11-19
+TXN_5602381,Juice,3,3.0,9.0,Cash,,2025-11-19
+TXN_5777037,Cake,1,,3.0,Credit Card,,2025-11-19
+TXN_3596038,Juice,5,3.0,15.0,,In-store,2025-11-19
+TXN_9772394,Tea,2,1.5,3.0,Digital Wallet,ERROR,2025-11-19
+TXN_5511149,,3,UNKNOWN,6.0,Credit Card,Takeaway,2025-11-19
+TXN_2411858,Tea,2,1.5,3.0,,In-store,2025-11-19
+TXN_7031909,Coffee,5,2.0,10.0,Cash,In-store,2025-11-19
+TXN_9597271,Cookie,3,1.0,3.0,Credit Card,Takeaway,2025-11-19
+TXN_7544382,Cake,2,3.0,6.0,Cash,ERROR,2025-11-19
+TXN_9692158,Sandwich,4,4.0,16.0,Credit Card,Takeaway,2025-11-19
+TXN_1337965,Salad,5,5.0,25.0,Digital Wallet,Takeaway,2025-11-19
+TXN_9399880,Salad,2,5.0,10.0,,In-store,2025-11-19
+TXN_2830525,Sandwich,5,4.0,20.0,Digital Wallet,,2025-11-19
+TXN_8757362,Sandwich,1,4.0,4.0,Credit Card,Takeaway,2025-11-19
+TXN_8284363,Juice,2,3.0,6.0,Digital Wallet,,2025-11-19
+TXN_2281415,Cake,3,3.0,9.0,Cash,Takeaway,2025-11-19
+TXN_9198259,Salad,1,5.0,5.0,ERROR,In-store,2025-11-19
+TXN_8311066,Sandwich,4,4.0,16.0,Cash,Takeaway,2025-11-19
+TXN_6086184,Salad,4,5.0,20.0,Cash,,2025-11-19
+TXN_9940585,ERROR,4,1.0,4.0,Credit Card,In-store,2025-11-19
+TXN_4912887,Smoothie,2,4.0,8.0,Credit Card,In-store,2025-11-19
+TXN_1046653,Cake,2,3.0,6.0,Cash,In-store,2025-11-19
+TXN_8861135,Cookie,3,1.0,3.0,Digital Wallet,Takeaway,2025-11-19
+TXN_4674414,Cookie,2,1.0,2.0,,Takeaway,2025-11-19
+TXN_5951811,Sandwich,1,4.0,4.0,,In-store,2025-11-19
+TXN_5391543,Cookie,2,1.0,2.0,Credit Card,Takeaway,2025-11-19
+TXN_1164930,,3,1.0,3.0,Digital Wallet,UNKNOWN,2025-11-19
+TXN_1248273,Coffee,3,2.0,6.0,Credit Card,In-store,2025-11-19
+TXN_8413962,Smoothie,5,ERROR,20.0,Digital Wallet,In-store,2025-11-19
+TXN_8051812,Cake,1,3.0,3.0,Cash,In-store,2025-11-19
+TXN_8131760,Cookie,1,1.0,1.0,Digital Wallet,Takeaway,2025-11-19
+TXN_9262329,Cake,3,3.0,9.0,,ERROR,2025-11-19
+TXN_3098395,Juice,5,3.0,15.0,UNKNOWN,ERROR,2025-11-19
+TXN_5609767,Cake,3,3.0,9.0,Credit Card,In-store,2025-11-19
+TXN_3527867,Salad,5,5.0,ERROR,Cash,Takeaway,2025-11-19
+TXN_0494441,Coffee,4,2.0,8.0,,In-store,2025-11-19
+TXN_7594607,UNKNOWN,2,5.0,10.0,Digital Wallet,,2025-11-19
+TXN_8165771,Juice,3,3.0,9.0,Cash,ERROR,2025-11-19
+TXN_4831812,Coffee,2,,4.0,Cash,Takeaway,2025-11-19
+TXN_1286868,Cake,3,3.0,9.0,Digital Wallet,,2025-11-19
+TXN_7133990,Cake,5,3.0,15.0,,,2025-11-19
+TXN_8612237,UNKNOWN,2,3.0,6.0,Digital Wallet,Takeaway,2025-11-19
+TXN_9170212,Cake,4,3.0,12.0,Digital Wallet,,2025-11-19
+TXN_9782932,UNKNOWN,3,1.0,3.0,Cash,,2025-11-19
+TXN_4704880,Coffee,2,2.0,4.0,,UNKNOWN,2025-11-19
+TXN_8766064,Cake,,3.0,12.0,,In-store,2025-11-19
+TXN_3152788,Salad,2,5.0,10.0,Credit Card,UNKNOWN,2025-11-19
+TXN_1007616,Tea,1,1.5,,Credit Card,Takeaway,2025-11-19
+TXN_2119830,Tea,3,1.5,4.5,Credit Card,,2025-11-19
+TXN_4905552,Sandwich,4,4.0,16.0,,UNKNOWN,2025-11-19
+TXN_4735352,Sandwich,1,4.0,4.0,,In-store,2025-11-19
+TXN_6671973,Smoothie,2,4.0,8.0,,UNKNOWN,2025-11-19
+TXN_9305087,Sandwich,5,4.0,20.0,UNKNOWN,,2025-11-19
+TXN_3149260,Salad,3,5.0,15.0,Credit Card,ERROR,2025-11-19
+TXN_3393464,Juice,,3.0,15.0,Digital Wallet,In-store,2025-11-19
+TXN_7026522,Coffee,1,,2.0,UNKNOWN,,2025-11-19
+TXN_7569145,Juice,4,3.0,12.0,Digital Wallet,In-store,2025-11-19
+TXN_0288326,Juice,5,3.0,15.0,Cash,,2025-11-19
+TXN_0233909,Tea,4,1.5,6.0,Cash,,2025-11-19
+TXN_0709646,Tea,3,1.5,4.5,,Takeaway,2025-11-19
+TXN_2384472,Juice,1,3.0,3.0,Cash,In-store,2025-11-19
+TXN_8009215,,3,4.0,12.0,Digital Wallet,Takeaway,2025-11-19
+TXN_5110361,Tea,1,1.5,1.5,Credit Card,,2025-11-19
+TXN_2440392,Coffee,2,2.0,4.0,Cash,Takeaway,2025-11-19
+TXN_0509655,Coffee,5,2.0,10.0,,,2025-11-19
+TXN_1768304,Smoothie,1,4.0,4.0,Digital Wallet,In-store,2025-11-19
+TXN_9401113,Tea,5,1.5,7.5,,,2025-11-19
+TXN_3131679,Cake,2,3.0,6.0,,Takeaway,2025-11-19
+TXN_2344802,Salad,4,5.0,20.0,Credit Card,In-store,2025-11-19
+TXN_9667036,Salad,3,5.0,15.0,ERROR,Takeaway,2025-11-19
+TXN_2070549,Coffee,2,2.0,4.0,,In-store,2025-11-19
+TXN_0372921,Tea,1,1.5,1.5,,,2025-11-19
+TXN_1546119,Cake,3,3.0,9.0,Credit Card,Takeaway,2025-11-19
+TXN_5695251,Cookie,1,1.0,,Cash,In-store,2025-11-19
+TXN_0284199,Salad,3,5.0,15.0,,,2025-11-19
+TXN_4300187,Smoothie,1,4.0,4.0,Cash,UNKNOWN,2025-11-19
+TXN_5379920,Sandwich,3,4.0,12.0,Credit Card,Takeaway,2025-11-19
+TXN_8115657,Juice,2,3.0,6.0,,In-store,2025-11-19
+TXN_6684303,Tea,3,1.5,4.5,Digital Wallet,Takeaway,2025-11-19
+TXN_9372990,Sandwich,4,4.0,16.0,,In-store,2025-11-19
+TXN_1985363,Sandwich,1,4.0,4.0,Digital Wallet,Takeaway,2025-11-19
+TXN_9505792,Sandwich,2,4.0,8.0,Digital Wallet,Takeaway,2025-11-19
+TXN_4086483,Sandwich,1,4.0,4.0,Digital Wallet,Takeaway,2025-11-19
+TXN_7203469,Salad,3,5.0,15.0,,Takeaway,2025-11-19
+TXN_1710313,ERROR,1,3.0,3.0,UNKNOWN,In-store,2025-11-19
+TXN_7958991,Tea,3,1.5,4.5,Cash,Takeaway,2025-11-19
+TXN_4635908,Smoothie,2,4.0,8.0,,,2025-11-19
+TXN_9779737,Smoothie,3,4.0,12.0,Cash,,2025-11-19
+TXN_0753279,Cake,2,3.0,6.0,Credit Card,In-store,2025-11-19
+TXN_6910912,Tea,1,1.5,1.5,Credit Card,,2025-11-19
+TXN_9127852,Coffee,1,2.0,2.0,Digital Wallet,Takeaway,2025-11-19
+TXN_6168889,Tea,UNKNOWN,1.5,4.5,,Takeaway,2025-11-19
+TXN_9807856,Coffee,1,2.0,2.0,Credit Card,Takeaway,2025-11-19
+TXN_5939660,Cookie,2,1.0,2.0,,Takeaway,2025-11-19
+TXN_6572733,Salad,2,5.0,10.0,Cash,,2025-11-19
+TXN_3042048,Juice,UNKNOWN,3.0,15.0,,Takeaway,2025-11-19
+TXN_5949123,Cookie,1,1.0,1.0,Cash,UNKNOWN,2025-11-19
+TXN_0236045,,2,3.0,6.0,,,2025-11-19
+TXN_8988529,Coffee,3,2.0,6.0,,,2025-11-19
+TXN_3708646,Coffee,1,UNKNOWN,2.0,Cash,Takeaway,2025-11-19
+TXN_5937991,UNKNOWN,2,1.5,3.0,Digital Wallet,,2025-11-19
+TXN_5724680,Cake,2,3.0,6.0,,Takeaway,2025-11-19
+TXN_2880345,UNKNOWN,4,4.0,16.0,Credit Card,Takeaway,2025-11-19
+TXN_8968463,Coffee,1,2.0,,Digital Wallet,In-store,2025-11-19
+TXN_6045740,Salad,2,5.0,10.0,Cash,Takeaway,2025-11-19
+TXN_4439455,Smoothie,4,4.0,16.0,,,2025-11-19
+TXN_4176989,Smoothie,4,4.0,16.0,Digital Wallet,In-store,2025-11-19
+TXN_9024197,,5,2.0,10.0,ERROR,,2025-11-19
+TXN_4940514,Juice,2,3.0,6.0,Credit Card,,2025-11-19
+TXN_7536332,Smoothie,3,4.0,12.0,Cash,,2025-11-19
+TXN_6953553,Coffee,1,2.0,2.0,Credit Card,Takeaway,2025-11-19
+TXN_8786352,Juice,1,3.0,3.0,Cash,UNKNOWN,2025-11-19
+TXN_9237944,Smoothie,3,4.0,12.0,Cash,,2025-11-19
+TXN_1079516,Tea,2,1.5,3.0,Digital Wallet,UNKNOWN,2025-11-19
+TXN_4093081,Juice,2,3.0,6.0,Cash,,2025-11-19
+TXN_4997852,Salad,1,5.0,5.0,Credit Card,In-store,2025-11-19
+TXN_7255993,Juice,2,3.0,6.0,Cash,In-store,2025-11-19
+TXN_0160699,Tea,4,1.5,ERROR,Digital Wallet,In-store,2025-11-19
+TXN_5153124,Cookie,1,1.0,1.0,,,2025-11-19
+TXN_2147739,Coffee,5,2.0,10.0,Digital Wallet,Takeaway,2025-11-19
+TXN_6133847,Coffee,4,2.0,8.0,Digital Wallet,,2025-11-19
+TXN_6821567,Tea,3,1.5,4.5,Digital Wallet,,2025-11-19
+TXN_0439095,Coffee,3,2.0,6.0,Digital Wallet,Takeaway,2025-11-19
+TXN_7265383,Sandwich,4,4.0,16.0,Credit Card,Takeaway,2025-11-19
+TXN_3799478,Coffee,2,2.0,4.0,Digital Wallet,In-store,2025-11-19
+TXN_5830186,Smoothie,5,4.0,20.0,Cash,,2025-11-19
+TXN_3289081,Sandwich,4,4.0,16.0,Credit Card,,2025-11-19
+TXN_7750914,Juice,1,3.0,3.0,Credit Card,,2025-11-19
+TXN_6301150,Sandwich,3,4.0,12.0,,Takeaway,2025-11-19
+TXN_4136833,Sandwich,3,4.0,12.0,,,2025-11-19
+TXN_3402082,Juice,2,3.0,6.0,Cash,Takeaway,2025-11-19
+TXN_9498411,Juice,1,3.0,3.0,Credit Card,In-store,2025-11-19
+TXN_0150438,Sandwich,5,4.0,20.0,ERROR,Takeaway,2025-11-19
+TXN_6406016,Smoothie,4,4.0,16.0,Cash,Takeaway,2025-11-19
+TXN_7170909,,2,1.5,3.0,,In-store,2025-11-19
+TXN_3390721,Tea,2,1.5,3.0,,In-store,2025-11-19
+TXN_1520454,Cookie,4,1.0,4.0,,Takeaway,2025-11-19
+TXN_7684970,Coffee,1,2.0,2.0,Credit Card,Takeaway,2025-11-19
+TXN_3484715,Sandwich,1,4.0,ERROR,,In-store,2025-11-19
+TXN_9828875,Cookie,4,1.0,4.0,Credit Card,Takeaway,2025-11-19
+TXN_6436812,Coffee,3,2.0,6.0,Cash,Takeaway,2025-11-19
+TXN_2442022,Salad,4,5.0,20.0,Digital Wallet,Takeaway,2025-11-19
+TXN_4850619,Sandwich,1,4.0,4.0,Cash,,2025-11-19
+TXN_4433123,,3,UNKNOWN,12.0,Cash,,2025-11-19
+TXN_7199644,UNKNOWN,2,5.0,10.0,Digital Wallet,In-store,2025-11-19
+TXN_1668596,Smoothie,5,4.0,20.0,Digital Wallet,In-store,2025-11-19
+TXN_0675158,ERROR,4,2.0,8.0,Digital Wallet,In-store,2025-11-19
+TXN_5398792,Salad,4,5.0,20.0,Cash,,2025-11-19
+TXN_7473100,Cookie,5,1.0,5.0,Credit Card,In-store,2025-11-19
+TXN_2885661,Coffee,2,2.0,4.0,,,2025-11-19
+TXN_9398660,Juice,5,3.0,15.0,,Takeaway,2025-11-19
+TXN_3134086,Sandwich,3,4.0,12.0,Digital Wallet,In-store,2025-11-19
+TXN_3563597,Sandwich,4,4.0,16.0,Credit Card,Takeaway,2025-11-19
+TXN_6599749,Coffee,3,2.0,6.0,,,2025-11-19
+TXN_0882414,Juice,5,3.0,15.0,Digital Wallet,,2025-11-19
+TXN_9776250,Cookie,2,1.0,2.0,,Takeaway,2025-11-19
+TXN_3407675,Juice,2,3.0,6.0,Cash,,2025-11-19
+TXN_8362915,,4,4.0,16.0,Credit Card,,2025-11-19
+TXN_1535876,Sandwich,4,4.0,16.0,Credit Card,In-store,2025-11-19
+TXN_5025211,Sandwich,3,4.0,12.0,,,2025-11-19
+TXN_8355190,Coffee,5,2.0,10.0,Digital Wallet,,2025-11-19
+TXN_8040137,Salad,5,5.0,25.0,,,2025-11-19
+TXN_9760284,Cookie,2,1.0,2.0,Digital Wallet,,2025-11-19
+TXN_8261046,Smoothie,5,4.0,20.0,UNKNOWN,,2025-11-19
+TXN_0693986,Cookie,3,1.0,3.0,Credit Card,UNKNOWN,2025-11-19
+TXN_0893868,Coffee,1,2.0,2.0,Cash,Takeaway,2025-11-19
+TXN_4252860,Cookie,2,1.0,2.0,Credit Card,Takeaway,2025-11-19
+TXN_3927517,Cookie,1,1.0,1.0,Digital Wallet,Takeaway,2025-11-19
+TXN_8165733,Cookie,5,1.0,5.0,,,2025-11-19
+TXN_4769046,Smoothie,5,4.0,20.0,Digital Wallet,In-store,2025-11-19
+TXN_2578765,Tea,3,1.5,4.5,Credit Card,In-store,2025-11-19
+TXN_5985091,Salad,2,5.0,10.0,,In-store,2025-11-19
+TXN_1581905,Coffee,3,2.0,6.0,Credit Card,,2025-11-19
+TXN_0938587,ERROR,2,1.5,3.0,,In-store,2025-11-19
+TXN_1781572,Smoothie,4,4.0,16.0,Digital Wallet,In-store,2025-11-19
+TXN_4175496,Coffee,3,2.0,6.0,,In-store,2025-11-19
+TXN_1492701,Coffee,1,2.0,2.0,Cash,,2025-11-19
+TXN_7928555,,3,3.0,9.0,Digital Wallet,Takeaway,2025-11-19
+TXN_0359745,Cake,5,3.0,15.0,Digital Wallet,Takeaway,2025-11-19
+TXN_7677192,UNKNOWN,3,3.0,9.0,,Takeaway,2025-11-19
+TXN_7107395,Coffee,5,2.0,10.0,Digital Wallet,Takeaway,2025-11-19
+TXN_1319538,Sandwich,UNKNOWN,4.0,8.0,Digital Wallet,Takeaway,2025-11-19
+TXN_1957646,Juice,5,3.0,15.0,,In-store,2025-11-19
+TXN_1624400,Coffee,4,ERROR,8.0,Cash,,2025-11-19
+TXN_4497033,Juice,2,3.0,6.0,,,2025-11-19
+TXN_2875342,Smoothie,2,4.0,8.0,Digital Wallet,Takeaway,2025-11-19
+TXN_0731196,Cookie,3,1.0,3.0,Cash,,2025-11-19
+TXN_1249463,Cake,5,3.0,15.0,Credit Card,In-store,2025-11-19
+TXN_7072789,Cake,1,3.0,3.0,,In-store,2025-11-19
+TXN_0700210,Smoothie,3,4.0,UNKNOWN,Digital Wallet,In-store,2025-11-19
+TXN_3635298,Sandwich,2,4.0,8.0,Credit Card,UNKNOWN,2025-11-19
+TXN_4589761,Tea,2,1.5,3.0,Cash,ERROR,2025-11-19
+TXN_2965077,ERROR,5,5.0,25.0,Cash,,2025-11-19
+TXN_8912780,Tea,5,,7.5,Digital Wallet,Takeaway,2025-11-19
+TXN_1852267,Juice,2,3.0,6.0,Digital Wallet,In-store,2025-11-19
+TXN_4287341,Salad,4,5.0,20.0,Credit Card,,2025-11-19
+TXN_2799260,Cake,1,3.0,3.0,Credit Card,In-store,2025-11-19
+TXN_2645058,Tea,3,1.5,4.5,Credit Card,Takeaway,2025-11-19
+TXN_0701913,Cake,5,3.0,15.0,Cash,,2025-11-19
+TXN_6519942,Sandwich,4,4.0,16.0,,Takeaway,2025-11-19
+TXN_0769635,Juice,5,3.0,UNKNOWN,Digital Wallet,UNKNOWN,2025-11-19
+TXN_6390529,Coffee,2,2.0,4.0,Digital Wallet,Takeaway,2025-11-19
+TXN_0738943,Salad,ERROR,5.0,25.0,Cash,,2025-11-19
+TXN_6938744,UNKNOWN,2,4.0,8.0,ERROR,,2025-11-19
+TXN_3862728,Cake,3,3.0,9.0,,In-store,2025-11-19
+TXN_2791622,Smoothie,2,4.0,8.0,Credit Card,Takeaway,2025-11-19
+TXN_3962927,Cake,5,3.0,15.0,,In-store,2025-11-19
+TXN_1182565,Coffee,4,2.0,8.0,Credit Card,,2025-11-19
+TXN_7366477,Sandwich,5,ERROR,20.0,Digital Wallet,In-store,2025-11-19
+TXN_5774418,Cake,2,3.0,6.0,Cash,In-store,2025-11-19
+TXN_5667244,Salad,5,5.0,25.0,Credit Card,In-store,2025-11-19
+TXN_4692312,Coffee,,2.0,6.0,Digital Wallet,Takeaway,2025-11-19
+TXN_9655306,Cookie,,1.0,5.0,,Takeaway,2025-11-19
+TXN_1517602,Tea,1,1.5,1.5,Credit Card,Takeaway,2025-11-19
+TXN_0395486,Juice,5,3.0,15.0,Credit Card,In-store,2025-11-19
+TXN_0844428,Smoothie,5,UNKNOWN,20.0,Cash,,2025-11-19
+TXN_4616449,Sandwich,3,4.0,12.0,Cash,In-store,2025-11-19
+TXN_0197687,Coffee,1,2.0,2.0,Digital Wallet,In-store,2025-11-19
+TXN_7175725,Cake,1,3.0,3.0,,UNKNOWN,2025-11-19
+TXN_2130889,Tea,2,1.5,3.0,Cash,In-store,2025-11-19
+TXN_7016972,Cake,2,3.0,6.0,Digital Wallet,UNKNOWN,2025-11-19
+TXN_9004204,Juice,4,3.0,12.0,Digital Wallet,Takeaway,2025-11-19
+TXN_0588288,Juice,5,3.0,15.0,UNKNOWN,Takeaway,2025-11-19
+TXN_8635834,ERROR,5,1.5,7.5,Cash,Takeaway,2025-11-19
+TXN_2260461,Sandwich,3,4.0,12.0,,In-store,2025-11-19
+TXN_9022161,Tea,3,1.5,4.5,,,2025-11-19
+TXN_5680413,Salad,5,5.0,25.0,Credit Card,,2025-11-19
+TXN_3842092,Juice,1,3.0,3.0,Digital Wallet,,2025-11-19
+TXN_6826783,Tea,2,1.5,3.0,Credit Card,In-store,2025-11-19
+TXN_4775488,Coffee,2,2.0,4.0,Credit Card,In-store,2025-11-19
+TXN_7212777,Cookie,2,1.0,2.0,UNKNOWN,,2025-11-19
+TXN_9694503,Salad,5,5.0,25.0,Credit Card,,2025-11-19
+TXN_9415987,Coffee,2,2.0,UNKNOWN,Cash,Takeaway,2025-11-19
+TXN_2432520,Smoothie,2,4.0,,,ERROR,2025-11-19
+TXN_9064817,Smoothie,3,4.0,12.0,Digital Wallet,In-store,2025-11-19
+TXN_7936990,Salad,2,5.0,10.0,Digital Wallet,Takeaway,2025-11-19
+TXN_0770552,Salad,4,5.0,20.0,Cash,,2025-11-19
+TXN_8826500,Sandwich,2,4.0,8.0,Credit Card,In-store,2025-11-19
+TXN_3546897,Cookie,2,1.0,2.0,Cash,Takeaway,2025-11-19
+TXN_3149081,Salad,1,5.0,5.0,Credit Card,,2025-11-19
+TXN_1648716,Cookie,4,1.0,4.0,UNKNOWN,,2025-11-19
+TXN_3958265,Smoothie,5,,20.0,Digital Wallet,ERROR,2025-11-19
+TXN_2106237,Juice,4,3.0,12.0,Credit Card,,2025-11-19
+TXN_2680807,Sandwich,5,4.0,UNKNOWN,Digital Wallet,,2025-11-19
+TXN_8486458,Cookie,5,UNKNOWN,,Cash,In-store,2025-11-19
+TXN_5509466,Salad,1,5.0,5.0,,Takeaway,2025-11-19
+TXN_4622013,Salad,1,5.0,5.0,ERROR,Takeaway,2025-11-19
+TXN_6670441,Cake,5,3.0,15.0,,Takeaway,2025-11-19
+TXN_1590891,Salad,4,5.0,20.0,,,2025-11-19
+TXN_9026699,Smoothie,4,4.0,16.0,,Takeaway,2025-11-19
+TXN_6835645,Cake,ERROR,3.0,3.0,Cash,Takeaway,2025-11-19
+TXN_4922686,Smoothie,2,,8.0,Cash,,2025-11-19
+TXN_4489346,Coffee,,2.0,4.0,Cash,,2025-11-19
+TXN_2689188,Sandwich,2,4.0,8.0,Credit Card,Takeaway,2025-11-19
+TXN_7820200,Juice,5,3.0,15.0,Cash,Takeaway,2025-11-19
+TXN_5186387,Salad,1,5.0,5.0,Credit Card,In-store,2025-11-19
+TXN_1537246,Cookie,2,1.0,2.0,Digital Wallet,Takeaway,2025-11-19
+TXN_7510791,Smoothie,4,4.0,16.0,Cash,Takeaway,2025-11-19
+TXN_3887860,Sandwich,1,4.0,4.0,UNKNOWN,UNKNOWN,2025-11-19
+TXN_2420431,Coffee,3,2.0,,,In-store,2025-11-19
+TXN_1333278,Salad,4,5.0,20.0,Cash,,2025-11-19
+TXN_1104046,Smoothie,3,4.0,12.0,Digital Wallet,Takeaway,2025-11-19
+TXN_2399823,Cookie,1,1.0,1.0,Cash,,2025-11-19
+TXN_3855653,Cookie,4,1.0,4.0,Digital Wallet,,2025-11-19
+TXN_4497139,Juice,2,3.0,6.0,Cash,In-store,2025-11-19
+TXN_6652384,Juice,3,3.0,,Credit Card,,2025-11-19
+TXN_7458889,Cookie,5,1.0,5.0,,Takeaway,2025-11-19
+TXN_1392596,Juice,5,3.0,15.0,,,2025-11-19
+TXN_1433961,Coffee,5,UNKNOWN,ERROR,Cash,ERROR,2025-11-19
+TXN_7710135,Smoothie,3,4.0,12.0,Digital Wallet,,2025-11-19
+TXN_9203801,Sandwich,UNKNOWN,4.0,12.0,UNKNOWN,Takeaway,2025-11-19
+TXN_6618856,Coffee,3,2.0,6.0,Digital Wallet,,2025-11-19
+TXN_1010305,Smoothie,4,4.0,16.0,,,2025-11-19
+TXN_6127457,Salad,4,5.0,20.0,Digital Wallet,,2025-11-19
+TXN_1322994,Smoothie,5,4.0,20.0,,Takeaway,2025-11-19
+TXN_0694292,Cake,ERROR,3.0,9.0,Digital Wallet,Takeaway,2025-11-19
+TXN_1587048,Cookie,2,1.0,2.0,Cash,In-store,2025-11-19
+TXN_8310885,Cake,2,3.0,6.0,,,2025-11-19
+TXN_9682048,Smoothie,3,4.0,12.0,Cash,,2025-11-19
+TXN_5620364,Cake,5,3.0,15.0,Cash,,2025-11-19
+TXN_2032231,Juice,3,3.0,9.0,,,2025-11-19
+TXN_6584441,Sandwich,2,4.0,8.0,Digital Wallet,ERROR,2025-11-19
+TXN_0258660,Tea,5,1.5,7.5,,In-store,2025-11-19
+TXN_7718406,Juice,2,3.0,6.0,Cash,Takeaway,2025-11-19
+TXN_9402844,Cookie,1,1.0,1.0,,,2025-11-19
+TXN_4865670,Salad,5,5.0,25.0,Credit Card,,2025-11-19
+TXN_2086914,Cookie,4,1.0,4.0,Credit Card,Takeaway,2025-11-19
+TXN_8550808,Sandwich,1,4.0,4.0,Credit Card,In-store,2025-11-19
+TXN_3480325,Cake,2,3.0,6.0,Cash,,2025-11-19
+TXN_9145754,Cake,1,3.0,3.0,,,2025-11-19
+TXN_7352652,Sandwich,4,4.0,16.0,Credit Card,,2025-11-19
+TXN_8964275,Tea,3,1.5,4.5,Cash,Takeaway,2025-11-19
+TXN_7687560,Smoothie,1,4.0,4.0,Credit Card,Takeaway,2025-11-19
+TXN_5957660,Sandwich,3,4.0,12.0,,In-store,2025-11-19
+TXN_9045874,Smoothie,4,4.0,16.0,Cash,,2025-11-19
+TXN_8702862,Juice,5,3.0,15.0,Digital Wallet,In-store,2025-11-19
+TXN_2713421,Salad,5,5.0,25.0,Digital Wallet,Takeaway,2025-11-19
+TXN_2334604,Smoothie,4,4.0,UNKNOWN,,,2025-11-19
+TXN_6423899,Juice,3,3.0,9.0,Credit Card,Takeaway,2025-11-19
+TXN_1621822,Tea,5,1.5,7.5,Cash,Takeaway,2025-11-19
+TXN_0689670,ERROR,2,3.0,6.0,Cash,Takeaway,2025-11-19
+TXN_9544179,Coffee,4,2.0,8.0,,,2025-11-19
+TXN_0187794,Cookie,4,1.0,4.0,Cash,Takeaway,2025-11-19
+TXN_1835557,Salad,3,5.0,15.0,,Takeaway,2025-11-19
+TXN_6115099,Cookie,2,1.0,2.0,,Takeaway,2025-11-19
+TXN_3861649,Smoothie,2,4.0,8.0,Credit Card,,2025-11-19
+TXN_5290300,Juice,4,3.0,12.0,,Takeaway,2025-11-19
+TXN_6839921,UNKNOWN,5,1.0,5.0,Credit Card,In-store,2025-11-19
+TXN_9055731,Juice,1,3.0,3.0,Digital Wallet,Takeaway,2025-11-19
+TXN_3929382,Tea,2,1.5,3.0,,Takeaway,2025-11-19
+TXN_3436713,Salad,2,5.0,10.0,Cash,Takeaway,2025-11-19
+TXN_4747270,Salad,1,5.0,5.0,Digital Wallet,Takeaway,2025-11-19
+TXN_7487839,Cake,3,3.0,9.0,Digital Wallet,Takeaway,2025-11-19
+TXN_4254825,Salad,1,5.0,5.0,Credit Card,ERROR,2025-11-19
+TXN_8274500,Juice,ERROR,3.0,12.0,,,2025-11-19
+TXN_4436113,Coffee,5,2.0,10.0,,,2025-11-19
+TXN_1380531,Sandwich,4,4.0,16.0,,In-store,2025-11-19
+TXN_6902476,Salad,2,5.0,10.0,Credit Card,,2025-11-19
+TXN_9424082,Cake,,3.0,9.0,Digital Wallet,In-store,2025-11-19
+TXN_0847348,Sandwich,4,4.0,,,In-store,2025-11-19
+TXN_7287688,Cake,5,UNKNOWN,15.0,Digital Wallet,Takeaway,2025-11-19
+TXN_2751922,Salad,3,5.0,15.0,Credit Card,,2025-11-19
+TXN_8076535,Juice,2,3.0,6.0,Credit Card,Takeaway,2025-11-19
+TXN_6296728,Coffee,5,2.0,10.0,Cash,Takeaway,2025-11-19
+TXN_3758682,Cookie,2,1.0,2.0,Digital Wallet,,2025-11-19
+TXN_1704615,Coffee,5,2.0,10.0,Credit Card,Takeaway,2025-11-19
+TXN_0912993,Coffee,1,ERROR,2.0,ERROR,Takeaway,2025-11-19
+TXN_7976744,Juice,1,3.0,3.0,Credit Card,Takeaway,2025-11-19
+TXN_3345040,Salad,1,5.0,5.0,ERROR,In-store,2025-11-19
+TXN_4050079,Juice,2,3.0,6.0,Digital Wallet,UNKNOWN,2025-11-19
+TXN_8089995,Tea,4,1.5,6.0,Cash,Takeaway,2025-11-19
+TXN_4943277,Smoothie,2,4.0,8.0,Cash,ERROR,2025-11-19
+TXN_8591878,Cookie,ERROR,1.0,4.0,Digital Wallet,UNKNOWN,2025-11-19
+TXN_4504393,Sandwich,ERROR,4.0,12.0,Digital Wallet,Takeaway,2025-11-19
+TXN_3499840,Salad,ERROR,5.0,25.0,Credit Card,Takeaway,2025-11-19
+TXN_2935738,Smoothie,5,4.0,20.0,,In-store,2025-11-19
+TXN_3501315,Tea,2,1.5,3.0,Credit Card,Takeaway,2025-11-19
+TXN_9634295,Coffee,5,2.0,10.0,,,2025-11-19
+TXN_6633651,Tea,1,1.5,1.5,Cash,In-store,2025-11-19
+TXN_4881186,Salad,3,5.0,15.0,Credit Card,Takeaway,2025-11-19
+TXN_1367305,Tea,3,1.5,4.5,Cash,In-store,2025-11-19
+TXN_1700040,Salad,1,5.0,5.0,,,2025-11-19
+TXN_2979222,Smoothie,1,4.0,4.0,Credit Card,Takeaway,2025-11-19
+TXN_4373121,Cake,1,3.0,3.0,Digital Wallet,Takeaway,2025-11-19
+TXN_7827687,Smoothie,1,4.0,4.0,Cash,ERROR,2025-11-19
+TXN_3209966,Sandwich,5,4.0,20.0,Cash,Takeaway,2025-11-19
+TXN_7469414,Tea,4,1.5,6.0,,,2025-11-19
+TXN_0193213,Salad,2,5.0,10.0,Credit Card,In-store,2025-11-19
+TXN_6097244,Cookie,4,1.0,4.0,Cash,,2025-11-19
+TXN_9622547,Coffee,5,2.0,10.0,Cash,In-store,2025-11-19
+TXN_3852190,,ERROR,3.0,9.0,Cash,Takeaway,2025-11-19
+TXN_1339315,Sandwich,1,4.0,4.0,Digital Wallet,Takeaway,2025-11-19
+TXN_2890186,Juice,1,3.0,3.0,,Takeaway,2025-11-19
+TXN_4409399,Juice,3,3.0,9.0,Cash,In-store,2025-11-19
+TXN_0495576,ERROR,1,1.5,1.5,,UNKNOWN,2025-11-19
+TXN_7281558,Salad,3,5.0,15.0,Digital Wallet,Takeaway,2025-11-19
+TXN_9727313,Smoothie,3,4.0,12.0,,Takeaway,2025-11-19
+TXN_3701917,Salad,2,5.0,10.0,Credit Card,UNKNOWN,2025-11-19
+TXN_9592318,Cake,1,3.0,3.0,Credit Card,In-store,2025-11-19
+TXN_3290184,Cookie,5,,5.0,Digital Wallet,,2025-11-19
+TXN_0792188,Cake,3,3.0,9.0,Digital Wallet,,2025-11-19
+TXN_1521519,Juice,3,3.0,9.0,Cash,,2025-11-19
+TXN_6738636,Smoothie,3,4.0,12.0,Credit Card,In-store,2025-11-19
+TXN_0705338,Tea,4,1.5,6.0,Credit Card,Takeaway,2025-11-19
+TXN_7802068,Juice,3,3.0,9.0,Cash,Takeaway,2025-11-19
+TXN_4223684,Smoothie,4,4.0,16.0,Digital Wallet,,2025-11-19
+TXN_4527624,Cookie,4,1.0,4.0,Digital Wallet,Takeaway,2025-11-19
+TXN_0062040,Tea,5,1.5,7.5,,Takeaway,2025-11-19
+TXN_6904031,Cookie,4,1.0,4.0,Digital Wallet,,2025-11-19
+TXN_0625675,Juice,4,3.0,,Cash,UNKNOWN,2025-11-19
+TXN_0526787,Sandwich,3,UNKNOWN,12.0,,In-store,2025-11-19
+TXN_7502429,Cake,4,3.0,12.0,Digital Wallet,,2025-11-19
+TXN_9058526,Tea,1,1.5,1.5,Digital Wallet,,2025-11-19
+TXN_2770401,Coffee,1,2.0,2.0,Digital Wallet,,2025-11-19
+TXN_9556745,Juice,1,3.0,3.0,Digital Wallet,,2025-11-19
+TXN_6313239,Juice,1,3.0,3.0,Credit Card,,2025-11-19
+TXN_8337482,Salad,2,5.0,10.0,UNKNOWN,Takeaway,2025-11-19
+TXN_9724262,Coffee,5,2.0,10.0,,In-store,2025-11-19
+TXN_7917106,Salad,1,5.0,5.0,Credit Card,,2025-11-19
+TXN_5655359,Tea,2,1.5,3.0,Cash,In-store,2025-11-19
+TXN_2063101,Coffee,4,2.0,8.0,Credit Card,In-store,2025-11-19
+TXN_0144412,UNKNOWN,5,ERROR,15.0,Cash,Takeaway,2025-11-19
+TXN_4184152,Cake,2,3.0,6.0,Digital Wallet,In-store,2025-11-19
+TXN_3301498,Tea,3,1.5,4.5,,In-store,2025-11-19
+TXN_9158223,Salad,1,ERROR,5.0,Cash,In-store,2025-11-19
+TXN_3644848,Cake,,3.0,3.0,ERROR,Takeaway,2025-11-19
+TXN_1189435,Coffee,2,2.0,4.0,,In-store,2025-11-19
+TXN_5708222,Juice,2,3.0,6.0,,Takeaway,2025-11-19
+TXN_6903653,UNKNOWN,UNKNOWN,4.0,4.0,,In-store,2025-11-19
+TXN_5717195,Salad,5,5.0,25.0,Digital Wallet,In-store,2025-11-19
+TXN_0413099,Smoothie,3,4.0,12.0,,In-store,2025-11-19
+TXN_5140603,UNKNOWN,2,3.0,6.0,Digital Wallet,,2025-11-19
+TXN_1148163,Salad,2,5.0,10.0,,Takeaway,2025-11-19
+TXN_0901054,Salad,3,5.0,15.0,UNKNOWN,,2025-11-19
+TXN_1753357,,4,4.0,16.0,,Takeaway,2025-11-19
+TXN_2328082,Coffee,1,ERROR,2.0,Digital Wallet,Takeaway,2025-11-19
+TXN_1997183,Smoothie,3,4.0,12.0,,UNKNOWN,2025-11-19
+TXN_6196010,Juice,ERROR,3.0,UNKNOWN,Digital Wallet,Takeaway,2025-11-19
+TXN_2602716,Coffee,5,2.0,10.0,Credit Card,Takeaway,2025-11-19
+TXN_0728365,Cake,5,3.0,15.0,Digital Wallet,,2025-11-19
+TXN_3716956,Coffee,3,2.0,6.0,,,2025-11-19
+TXN_3403350,Cookie,3,1.0,3.0,Cash,In-store,2025-11-19
+TXN_0216091,Juice,2,3.0,6.0,,,2025-11-19
+TXN_4464937,Tea,3,1.5,4.5,Credit Card,Takeaway,2025-11-19
+TXN_0719744,Juice,,3.0,3.0,,,2025-11-19
+TXN_6905208,Cookie,1,1.0,1.0,Credit Card,In-store,2025-11-19
+TXN_4673757,Cookie,1,1.0,1.0,Cash,,2025-11-19
+TXN_7897748,Cake,2,3.0,6.0,,Takeaway,2025-11-19
+TXN_2757000,Cookie,2,ERROR,2.0,,,2025-11-19
+TXN_7614153,Salad,3,5.0,15.0,,,2025-11-19
+TXN_5660104,Tea,4,1.5,6.0,Cash,Takeaway,2025-11-19
+TXN_7517048,Juice,4,3.0,12.0,Digital Wallet,In-store,2025-11-19
+TXN_4180631,Juice,1,3.0,3.0,Digital Wallet,Takeaway,2025-11-19
+TXN_2241847,Cookie,1,1.0,1.0,Digital Wallet,In-store,2025-11-19
+TXN_4681280,Sandwich,4,4.0,16.0,Cash,In-store,2025-11-19
+TXN_1230780,UNKNOWN,1,5.0,5.0,Cash,In-store,2025-11-19
+TXN_1976393,Sandwich,3,4.0,12.0,Digital Wallet,,2025-11-19
+TXN_4791914,Juice,5,ERROR,15.0,Cash,Takeaway,2025-11-19
+TXN_2462452,Sandwich,2,4.0,8.0,,In-store,2025-11-19
+TXN_7479983,Coffee,2,2.0,4.0,Cash,Takeaway,2025-11-19
+TXN_4896190,Sandwich,3,4.0,12.0,Digital Wallet,,2025-11-19
+TXN_4399584,Juice,3,3.0,9.0,Cash,,2025-11-19
+TXN_6618749,Cake,3,3.0,9.0,Digital Wallet,UNKNOWN,2025-11-19
+TXN_4523466,Cookie,1,1.0,1.0,,In-store,2025-11-19
+TXN_1304700,UNKNOWN,4,4.0,16.0,Cash,Takeaway,2025-11-19
+TXN_4647916,Smoothie,5,,20.0,Digital Wallet,Takeaway,2025-11-19
+TXN_6668615,UNKNOWN,5,5.0,25.0,Digital Wallet,In-store,2025-11-19
+TXN_2594603,Salad,3,5.0,15.0,UNKNOWN,Takeaway,2025-11-19
+TXN_5153519,Salad,2,,10.0,Credit Card,Takeaway,2025-11-19
+TXN_4649680,Sandwich,2,4.0,8.0,Digital Wallet,In-store,2025-11-19
+TXN_0225036,Coffee,3,2.0,6.0,Digital Wallet,UNKNOWN,2025-11-19
+TXN_1871347,Sandwich,2,4.0,8.0,,,2025-11-19
+TXN_9021224,Smoothie,2,4.0,8.0,Credit Card,,2025-11-19
+TXN_2227933,Coffee,4,2.0,8.0,,,2025-11-19
+TXN_5703369,UNKNOWN,1,4.0,4.0,,,2025-11-19
+TXN_7742237,Smoothie,3,4.0,12.0,,In-store,2025-11-19
+TXN_2340901,Smoothie,1,4.0,4.0,Cash,Takeaway,2025-11-19
+TXN_5489234,Cookie,1,1.0,1.0,,Takeaway,2025-11-19
+TXN_2182157,Sandwich,1,4.0,4.0,,In-store,2025-11-19
+TXN_4220376,ERROR,5,5.0,25.0,Credit Card,Takeaway,2025-11-19
+TXN_7996391,Cookie,1,1.0,1.0,,,2025-11-19
+TXN_4301972,Cake,5,3.0,15.0,Digital Wallet,In-store,2025-11-19
+TXN_8483210,Tea,4,1.5,6.0,Digital Wallet,In-store,2025-11-19
+TXN_3311891,Coffee,5,2.0,10.0,,,2025-11-19
+TXN_5407519,Tea,1,1.5,1.5,Credit Card,Takeaway,2025-11-19
+TXN_5874775,Coffee,4,2.0,8.0,Digital Wallet,,2025-11-19
+TXN_0153201,Cookie,5,1.0,5.0,,,2025-11-19
+TXN_9116409,Salad,2,5.0,10.0,Credit Card,In-store,2025-11-19
+TXN_0120107,Tea,2,1.5,3.0,ERROR,,2025-11-19
+TXN_2828249,Coffee,3,2.0,6.0,Digital Wallet,,2025-11-19
+TXN_6116043,Cake,2,3.0,6.0,Cash,In-store,2025-11-19
+TXN_0393868,Salad,ERROR,5.0,5.0,Cash,,2025-11-19
+TXN_8789082,Tea,2,1.5,3.0,Cash,ERROR,2025-11-19
+TXN_3425039,Cookie,3,1.0,3.0,Cash,,2025-11-19
+TXN_6947773,Cake,5,3.0,15.0,Cash,,2025-11-19
+TXN_6623110,Cake,2,3.0,6.0,Credit Card,,2025-11-19
+TXN_4970662,,3,3.0,9.0,Credit Card,,2025-11-19
+TXN_4033408,Smoothie,1,4.0,4.0,Digital Wallet,Takeaway,2025-11-19
+TXN_7638878,Smoothie,5,ERROR,20.0,,,2025-11-19
+TXN_8329161,Salad,5,5.0,25.0,,Takeaway,2025-11-19
+TXN_7429627,Sandwich,ERROR,4.0,4.0,Credit Card,Takeaway,2025-11-19
+TXN_2352590,Juice,2,3.0,6.0,,,2025-11-19
+TXN_1266426,Smoothie,5,4.0,20.0,,Takeaway,2025-11-19
+TXN_3365282,Smoothie,4,4.0,16.0,,Takeaway,2025-11-19
+TXN_6036043,Cookie,1,1.0,1.0,Credit Card,In-store,2025-11-19
+TXN_9334719,Sandwich,3,4.0,12.0,Credit Card,,2025-11-19
+TXN_9720887,Smoothie,,4.0,4.0,Digital Wallet,In-store,2025-11-19
+TXN_1396658,Smoothie,3,4.0,12.0,ERROR,,2025-11-19
+TXN_4431752,Smoothie,2,4.0,8.0,Digital Wallet,In-store,2025-11-19
+TXN_8389266,Tea,4,1.5,6.0,Digital Wallet,Takeaway,2025-11-19
+TXN_1591248,Salad,2,5.0,10.0,ERROR,In-store,2025-11-19
+TXN_5500248,Coffee,2,2.0,4.0,,In-store,2025-11-19
+TXN_8299291,Cake,3,3.0,9.0,Credit Card,,2025-11-19
+TXN_5843374,Smoothie,3,4.0,12.0,Credit Card,Takeaway,2025-11-19
+TXN_0950242,Sandwich,3,4.0,12.0,Cash,In-store,2025-11-19
+TXN_1842771,ERROR,2,3.0,6.0,,Takeaway,2025-11-19
+TXN_7272736,Cookie,2,1.0,2.0,Digital Wallet,Takeaway,2025-11-19
+TXN_6009133,Coffee,5,2.0,10.0,,,2025-11-19
+TXN_7945631,Salad,1,5.0,5.0,Credit Card,In-store,2025-11-19
+TXN_2934314,Coffee,3,2.0,6.0,Credit Card,ERROR,2025-11-19
+TXN_3560903,,5,1.0,5.0,UNKNOWN,,2025-11-19
+TXN_4545915,Smoothie,2,4.0,8.0,Credit Card,,2025-11-19
+TXN_1450884,Salad,4,5.0,20.0,Credit Card,Takeaway,2025-11-19
+TXN_2296388,Cookie,5,1.0,5.0,Credit Card,,2025-11-19
+TXN_3509204,Smoothie,2,4.0,8.0,Cash,In-store,2025-11-19
+TXN_6852199,Coffee,4,2.0,8.0,Cash,,2025-11-19
+TXN_0731028,Cake,4,3.0,12.0,,ERROR,2025-11-19
+TXN_8097891,Cake,5,3.0,15.0,,,2025-11-19
+TXN_0027505,Tea,2,1.5,3.0,,ERROR,2025-11-19
+TXN_2309945,Coffee,4,2.0,8.0,,Takeaway,2025-11-19
+TXN_6779324,Smoothie,UNKNOWN,4.0,20.0,,Takeaway,2025-11-19
+TXN_8586178,Sandwich,2,4.0,8.0,Digital Wallet,In-store,2025-11-19
+TXN_7985893,Juice,3,3.0,9.0,UNKNOWN,Takeaway,2025-11-19
+TXN_2660893,Smoothie,2,4.0,8.0,Digital Wallet,,2025-11-19
+TXN_5417072,Salad,1,5.0,,Credit Card,Takeaway,2025-11-19
+TXN_9869357,Salad,4,5.0,20.0,Cash,Takeaway,2025-11-19
+TXN_8763183,Cookie,5,1.0,5.0,Credit Card,,2025-11-19
+TXN_8436242,Juice,4,3.0,12.0,Cash,In-store,2025-11-19
+TXN_1352477,Cookie,1,1.0,1.0,,Takeaway,2025-11-19
+TXN_6961068,Cake,UNKNOWN,3.0,15.0,Cash,In-store,2025-11-19
+TXN_8377350,Salad,4,5.0,20.0,Cash,,2025-11-19
+TXN_0499911,Cookie,4,1.0,4.0,ERROR,ERROR,2025-11-19
+TXN_3281252,UNKNOWN,3,3.0,9.0,Digital Wallet,,2025-11-19
+TXN_5081118,Coffee,5,2.0,10.0,,In-store,2025-11-19
+TXN_5071830,Juice,4,3.0,12.0,Cash,Takeaway,2025-11-19
+TXN_4067413,,5,2.0,10.0,Digital Wallet,,2025-11-19
+TXN_8976840,Coffee,4,2.0,8.0,Digital Wallet,UNKNOWN,2025-11-19
+TXN_6969759,Coffee,4,2.0,8.0,,In-store,2025-11-19
+TXN_2686030,Coffee,UNKNOWN,2.0,2.0,,,2025-11-19
+TXN_0478482,Juice,5,3.0,,UNKNOWN,,2025-11-19
+TXN_1311020,Cookie,5,1.0,5.0,Cash,In-store,2025-11-19
+TXN_4397479,Salad,5,5.0,25.0,Credit Card,,2025-11-19
+TXN_6231133,Coffee,2,2.0,4.0,ERROR,UNKNOWN,2025-11-19
+TXN_2476667,Juice,4,3.0,12.0,Credit Card,Takeaway,2025-11-19
+TXN_3945808,Cookie,1,1.0,1.0,,Takeaway,2025-11-19
+TXN_1879264,Smoothie,5,4.0,20.0,Credit Card,,2025-11-19
+TXN_0881738,Juice,1,ERROR,3.0,,ERROR,2025-11-19
+TXN_7459416,Juice,4,3.0,12.0,,,2025-11-19
+TXN_6342103,Cookie,5,1.0,5.0,,In-store,2025-11-19
+TXN_5659910,Sandwich,5,4.0,20.0,Digital Wallet,Takeaway,2025-11-19
+TXN_3174283,Cake,3,3.0,9.0,ERROR,Takeaway,2025-11-19
+TXN_1148093,Salad,1,5.0,5.0,Credit Card,ERROR,2025-11-19
+TXN_5310998,Cake,4,3.0,12.0,Digital Wallet,Takeaway,2025-11-19
+TXN_5177694,Tea,4,1.5,6.0,Digital Wallet,In-store,2025-11-19
+TXN_1232831,Cookie,2,1.0,2.0,,,2025-11-19
+TXN_4947682,Salad,UNKNOWN,5.0,5.0,,,2025-11-19
+TXN_6654785,Juice,2,3.0,6.0,Digital Wallet,In-store,2025-11-19
+TXN_7702098,Smoothie,2,4.0,8.0,Credit Card,,2025-11-19
+TXN_6908466,Salad,3,5.0,15.0,Cash,In-store,2025-11-19
+TXN_5153065,Sandwich,4,4.0,16.0,Credit Card,ERROR,2025-11-19
+TXN_1612815,,1,3.0,3.0,Cash,,2025-11-19
+TXN_0240613,Salad,1,5.0,,Credit Card,In-store,2025-11-19
+TXN_5928740,Juice,5,UNKNOWN,15.0,Cash,Takeaway,2025-11-19
+TXN_4802187,Salad,4,5.0,20.0,,Takeaway,2025-11-19
+TXN_5014697,Tea,4,1.5,6.0,Cash,Takeaway,2025-11-19
+TXN_2027274,Tea,5,1.5,7.5,Cash,In-store,2025-11-19
+TXN_6481298,Coffee,3,2.0,6.0,Digital Wallet,UNKNOWN,2025-11-19
+TXN_3147940,Smoothie,ERROR,4.0,12.0,Credit Card,,2025-11-19
+TXN_9199482,Salad,5,5.0,25.0,Digital Wallet,Takeaway,2025-11-19
+TXN_6840155,Sandwich,3,4.0,,Credit Card,In-store,2025-11-19
+TXN_5828812,Salad,1,5.0,5.0,Digital Wallet,Takeaway,2025-11-19
+TXN_0436877,Smoothie,1,4.0,4.0,Digital Wallet,,2025-11-19
+TXN_5549663,Cookie,4,1.0,4.0,Cash,,2025-11-19
+TXN_8516791,Coffee,4,2.0,8.0,,,2025-11-19
+TXN_5527195,Smoothie,3,4.0,12.0,Digital Wallet,ERROR,2025-11-19
+TXN_9325375,Smoothie,4,4.0,16.0,UNKNOWN,Takeaway,2025-11-19
+TXN_5845666,Cake,2,3.0,6.0,,,2025-11-19
+TXN_8926934,Salad,5,5.0,25.0,Credit Card,In-store,2025-11-19
+TXN_8033779,Cookie,4,1.0,4.0,UNKNOWN,,2025-11-19
+TXN_1404453,Tea,5,1.5,7.5,,In-store,2025-11-19
+TXN_1497671,Cake,2,3.0,6.0,ERROR,,2025-11-19
+TXN_4343086,Cake,4,3.0,12.0,,In-store,2025-11-19
+TXN_9800889,Juice,3,3.0,9.0,Digital Wallet,,2025-11-19
+TXN_1760506,Juice,3,3.0,9.0,Credit Card,,2025-11-19
+TXN_3235946,Juice,4,3.0,12.0,,In-store,2025-11-19
+TXN_5100882,Juice,5,3.0,15.0,Cash,In-store,2025-11-19
+TXN_1610370,Coffee,1,2.0,2.0,Digital Wallet,,2025-11-19
+TXN_6141872,Salad,1,5.0,5.0,ERROR,,2025-11-19
+TXN_7239426,Sandwich,4,4.0,16.0,,Takeaway,2025-11-19
+TXN_0087636,Coffee,1,2.0,2.0,,,2025-11-19
+TXN_3705097,,3,1.5,4.5,,In-store,2025-11-19
+TXN_4518221,Coffee,3,2.0,6.0,Credit Card,,2025-11-19
+TXN_9480098,Juice,1,3.0,3.0,Credit Card,Takeaway,2025-11-19
+TXN_0144702,Juice,4,3.0,12.0,Credit Card,,2025-11-19
+TXN_3287005,Sandwich,2,4.0,8.0,,,2025-11-19
+TXN_2015351,Sandwich,3,4.0,12.0,,Takeaway,2025-11-19
+TXN_5306439,Sandwich,5,4.0,20.0,Digital Wallet,ERROR,2025-11-19
+TXN_6137432,Cookie,3,1.0,3.0,Cash,Takeaway,2025-11-19
+TXN_1656929,Juice,2,3.0,6.0,,,2025-11-19
+TXN_5717289,Smoothie,5,4.0,UNKNOWN,Cash,In-store,2025-11-19
+TXN_1528549,Juice,2,3.0,6.0,,In-store,2025-11-19
+TXN_0468965,Coffee,4,2.0,ERROR,Credit Card,,2025-11-19
+TXN_4347542,Tea,1,1.5,1.5,,In-store,2025-11-19
+TXN_0135725,UNKNOWN,2,3.0,6.0,,,2025-11-19
+TXN_6445185,Juice,5,3.0,15.0,Digital Wallet,Takeaway,2025-11-19
+TXN_9037048,Smoothie,4,4.0,16.0,Cash,,2025-11-19
+TXN_7046658,Salad,4,5.0,UNKNOWN,,In-store,2025-11-19
+TXN_1083652,Tea,4,1.5,6.0,Cash,In-store,2025-11-19
+TXN_3774126,Juice,3,3.0,9.0,Cash,,2025-11-19
+TXN_1806166,,ERROR,,20.0,Credit Card,,2025-11-19
+TXN_3007818,Tea,2,1.5,3.0,Digital Wallet,Takeaway,2025-11-19
+TXN_1941264,Smoothie,4,4.0,16.0,Credit Card,In-store,2025-11-19
+TXN_1158747,Cookie,2,1.0,2.0,Digital Wallet,Takeaway,2025-11-19
+TXN_0441260,Cookie,2,1.0,2.0,Cash,Takeaway,2025-11-19
+TXN_9602076,Cake,5,3.0,15.0,Cash,Takeaway,2025-11-19
+TXN_7774955,Sandwich,5,4.0,20.0,Credit Card,,2025-11-19
+TXN_8605924,Coffee,3,2.0,6.0,Credit Card,,2025-11-19
+TXN_1315023,Salad,4,5.0,20.0,Digital Wallet,,2025-11-19
+TXN_2509616,Sandwich,5,4.0,20.0,Credit Card,,2025-11-19
+TXN_0427064,Tea,2,1.5,3.0,Digital Wallet,In-store,2025-11-19
+TXN_7048324,Coffee,5,2.0,10.0,,In-store,2025-11-19
+TXN_1595291,Juice,2,,ERROR,Digital Wallet,Takeaway,2025-11-19
+TXN_5047751,Cake,3,3.0,9.0,Credit Card,Takeaway,2025-11-19
+TXN_0695067,Juice,1,3.0,3.0,Cash,,2025-11-19
+TXN_4949116,Tea,ERROR,1.5,6.0,,Takeaway,2025-11-19
+TXN_3764085,Sandwich,4,4.0,16.0,Cash,,2025-11-19
+TXN_4940131,Sandwich,2,4.0,8.0,Credit Card,ERROR,2025-11-19
+TXN_9172214,Salad,2,5.0,10.0,Digital Wallet,Takeaway,2025-11-19
+TXN_3678122,ERROR,4,1.0,4.0,,Takeaway,2025-11-19
+TXN_0717428,Juice,5,3.0,15.0,,In-store,2025-11-19
+TXN_1733043,Juice,4,3.0,12.0,,In-store,2025-11-19
+TXN_0541925,Coffee,2,2.0,4.0,Cash,In-store,2025-11-19
+TXN_7209776,Tea,3,1.5,4.5,,,2025-11-19
+TXN_3209923,Smoothie,5,4.0,20.0,Cash,In-store,2025-11-19
+TXN_2471934,Smoothie,3,4.0,12.0,Cash,,2025-11-19
+TXN_3560610,Smoothie,UNKNOWN,4.0,4.0,Cash,Takeaway,2025-11-19
+TXN_3821175,Coffee,2,2.0,4.0,,UNKNOWN,2025-11-19
